@@ -1,0 +1,49 @@
+async function recoverAll(limit = 4) {
+  const delay = (ms) => new Promise(r => setTimeout(r, ms));
+  let recoveredCount = 0;
+
+  while (recoveredCount < limit) {
+    const menuBtn = document.querySelector('.overflow-menu');
+    if (!menuBtn) {
+      console.log('❌ No menu button found.');
+      break;
+    }
+
+    menuBtn.click();
+    await delay(300);
+
+    const recoverLink = document.querySelector('a[href^="undefined_overflow"]');
+    if (!recoverLink || recoverLink.getAttribute('aria-disabled') === 'true') {
+      console.log('❌ No recover link found or it is disabled.');
+      break;
+    }
+
+    recoverLink.click();
+    console.log(`🚀 Recovery started.`);
+
+    await delay(500); // Ensure the confirmation button has time to appear
+
+    const confirmBtn = document.querySelector('#confirmation-confirm-button');
+    if (!confirmBtn || confirmBtn.getAttribute('aria-disabled') === 'true') {
+      console.log('❌ No confirm button found or it is disabled.');
+      break;
+    }
+
+    confirmBtn.click();
+    console.log(`✅ Recovered #${recoveredCount + 1}`);
+    recoveredCount++;
+
+    // Wait to simulate natural delay between recoveries
+    await delay(1000); // Adjust as needed based on response times
+
+    // If recovery limit is reached, stop
+    if (recoveredCount >= limit) {
+      console.log(`✅ Done. Recovered ${recoveredCount} items.`);
+      break;
+    }
+  }
+
+  if (recoveredCount === 0) {
+    console.log('❌ No items were recovered.');
+  }
+}

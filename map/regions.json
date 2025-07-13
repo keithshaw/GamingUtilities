@@ -1,0 +1,5780 @@
+[
+  {
+    "region": 1,
+    "effect": "Blackout",
+    "start_position": 50.0,
+    "end_position": 99.9
+  },
+  {
+    "region": 2,
+    "effect": "Super Highway",
+    "start_position": 100.0,
+    "end_position": 149.9
+  },
+  {
+    "region": 3,
+    "effect": "Knowledge",
+    "start_position": 150.0,
+    "end_position": 199.9
+  },
+  {
+    "region": 4,
+    "effect": "Gastro",
+    "start_position": 200.0,
+    "end_position": 249.9
+  },
+  {
+    "region": 5,
+    "effect": "Movers",
+    "start_position": 250.0,
+    "end_position": 299.9
+  },
+  {
+    "region": 6,
+    "effect": "Farmland",
+    "start_position": 300.0,
+    "end_position": 349.9
+  },
+  {
+    "region": 7,
+    "effect": "Knowledge",
+    "start_position": 350.0,
+    "end_position": 399.9
+  },
+  {
+    "region": 8,
+    "effect": "Digital Noise",
+    "start_position": 400.0,
+    "end_position": 449.9
+  },
+  {
+    "region": 9,
+    "effect": "Nanite Nest",
+    "start_position": 450.0,
+    "end_position": 499.9
+  },
+  {
+    "region": 10,
+    "effect": "Unknown",
+    "start_position": 500.0,
+    "end_position": 549.9
+  },
+  {
+    "region": 11,
+    "effect": "Unknown",
+    "start_position": 550.0,
+    "end_position": 599.9
+  },
+  {
+    "region": 12,
+    "effect": "Hero Forge",
+    "start_position": 600.0,
+    "end_position": 649.9
+  },
+  {
+    "region": 13,
+    "effect": "Movers",
+    "start_position": 650.0,
+    "end_position": 699.9
+  },
+  {
+    "region": 14,
+    "effect": "Super Highway",
+    "start_position": 700.0,
+    "end_position": 749.9
+  },
+  {
+    "region": 15,
+    "effect": "Junker",
+    "start_position": 750.0,
+    "end_position": 799.9
+  },
+  {
+    "region": 16,
+    "effect": "Powered",
+    "start_position": 800.0,
+    "end_position": 849.9
+  },
+  {
+    "region": 17,
+    "effect": "Botanist",
+    "start_position": 850.0,
+    "end_position": 899.9
+  },
+  {
+    "region": 18,
+    "effect": "Stopwatch",
+    "start_position": 900.0,
+    "end_position": 949.9
+  },
+  {
+    "region": 19,
+    "effect": "Risky Business",
+    "start_position": 950.0,
+    "end_position": 999.9
+  },
+  {
+    "region": 20,
+    "effect": "Mining",
+    "start_position": 1000.0,
+    "end_position": 1049.9
+  },
+  {
+    "region": 21,
+    "effect": "Jammed Signal",
+    "start_position": 1050.0,
+    "end_position": 1099.9
+  },
+  {
+    "region": 22,
+    "effect": "Mining Efforts",
+    "start_position": 1100.0,
+    "end_position": 1149.9
+  },
+  {
+    "region": 23,
+    "effect": "Discharged",
+    "start_position": 1150.0,
+    "end_position": 1199.9
+  },
+  {
+    "region": 24,
+    "effect": "Blackout",
+    "start_position": 1200.0,
+    "end_position": 1249.9
+  },
+  {
+    "region": 25,
+    "effect": "Digital Noise",
+    "start_position": 1250.0,
+    "end_position": 1299.9
+  },
+  {
+    "region": 26,
+    "effect": "Unknown",
+    "start_position": 1300.0,
+    "end_position": 1349.9
+  },
+  {
+    "region": 27,
+    "effect": "Gastro",
+    "start_position": 1350.0,
+    "end_position": 1399.9
+  },
+  {
+    "region": 28,
+    "effect": "Nanite Nest",
+    "start_position": 1400.0,
+    "end_position": 1449.9
+  },
+  {
+    "region": 29,
+    "effect": "Colonial",
+    "start_position": 1450.0,
+    "end_position": 1499.9
+  },
+  {
+    "region": 30,
+    "effect": "Risky Business",
+    "start_position": 1500.0,
+    "end_position": 1549.9
+  },
+  {
+    "region": 31,
+    "effect": "Meteor",
+    "start_position": 1550.0,
+    "end_position": 1599.9
+  },
+  {
+    "region": 32,
+    "effect": "Slingshot",
+    "start_position": 1600.0,
+    "end_position": 1649.9
+  },
+  {
+    "region": 33,
+    "effect": "Mist",
+    "start_position": 1650.0,
+    "end_position": 1699.9
+  },
+  {
+    "region": 34,
+    "effect": "Boon",
+    "start_position": 1700.0,
+    "end_position": 1749.9
+  },
+  {
+    "region": 35,
+    "effect": "Unknown",
+    "start_position": 1750.0,
+    "end_position": 1799.9
+  },
+  {
+    "region": 36,
+    "effect": "Unknown",
+    "start_position": 1800.0,
+    "end_position": 1849.9
+  },
+  {
+    "region": 37,
+    "effect": "Unknown",
+    "start_position": 1850.0,
+    "end_position": 1899.9
+  },
+  {
+    "region": 38,
+    "effect": "Unknown",
+    "start_position": 1900.0,
+    "end_position": 1949.9
+  },
+  {
+    "region": 39,
+    "effect": "Unknown",
+    "start_position": 1950.0,
+    "end_position": 1999.9
+  },
+  {
+    "region": 40,
+    "effect": "Unknown",
+    "start_position": 2000.0,
+    "end_position": 2049.9
+  },
+  {
+    "region": 41,
+    "effect": "Unknown",
+    "start_position": 2050.0,
+    "end_position": 2099.9
+  },
+  {
+    "region": 42,
+    "effect": "Unknown",
+    "start_position": 2100.0,
+    "end_position": 2149.9
+  },
+  {
+    "region": 43,
+    "effect": "Unknown",
+    "start_position": 2150.0,
+    "end_position": 2199.9
+  },
+  {
+    "region": 44,
+    "effect": "Unknown",
+    "start_position": 2200.0,
+    "end_position": 2249.9
+  },
+  {
+    "region": 45,
+    "effect": "Unknown",
+    "start_position": 2250.0,
+    "end_position": 2299.9
+  },
+  {
+    "region": 46,
+    "effect": "Unknown",
+    "start_position": 2300.0,
+    "end_position": 2349.9
+  },
+  {
+    "region": 47,
+    "effect": "Unknown",
+    "start_position": 2350.0,
+    "end_position": 2399.9
+  },
+  {
+    "region": 48,
+    "effect": "Unknown",
+    "start_position": 2400.0,
+    "end_position": 2449.9
+  },
+  {
+    "region": 49,
+    "effect": "Unknown",
+    "start_position": 2450.0,
+    "end_position": 2499.9
+  },
+  {
+    "region": 50,
+    "effect": "Freelance",
+    "start_position": 2500.0,
+    "end_position": 2549.9
+  },
+  {
+    "region": 51,
+    "effect": "Unknown",
+    "start_position": 2550.0,
+    "end_position": 2599.9
+  },
+  {
+    "region": 52,
+    "effect": "Meteor",
+    "start_position": 2600.0,
+    "end_position": 2649.9
+  },
+  {
+    "region": 53,
+    "effect": "Unknown",
+    "start_position": 2650.0,
+    "end_position": 2699.9
+  },
+  {
+    "region": 54,
+    "effect": "Unknown",
+    "start_position": 2700.0,
+    "end_position": 2749.9
+  },
+  {
+    "region": 55,
+    "effect": "Unknown",
+    "start_position": 2750.0,
+    "end_position": 2799.9
+  },
+  {
+    "region": 56,
+    "effect": "Unknown",
+    "start_position": 2800.0,
+    "end_position": 2849.9
+  },
+  {
+    "region": 57,
+    "effect": "Unknown",
+    "start_position": 2850.0,
+    "end_position": 2899.9
+  },
+  {
+    "region": 58,
+    "effect": "Unknown",
+    "start_position": 2900.0,
+    "end_position": 2949.9
+  },
+  {
+    "region": 59,
+    "effect": "Unknown",
+    "start_position": 2950.0,
+    "end_position": 2999.9
+  },
+  {
+    "region": 60,
+    "effect": "Unknown",
+    "start_position": 3000.0,
+    "end_position": 3049.9
+  },
+  {
+    "region": 61,
+    "effect": "Unknown",
+    "start_position": 3050.0,
+    "end_position": 3099.9
+  },
+  {
+    "region": 62,
+    "effect": "Junker",
+    "start_position": 3100.0,
+    "end_position": 3149.9
+  },
+  {
+    "region": 63,
+    "effect": "Unhackable",
+    "start_position": 3150.0,
+    "end_position": 3199.9
+  },
+  {
+    "region": 64,
+    "effect": "Unknown",
+    "start_position": 3200.0,
+    "end_position": 3249.9
+  },
+  {
+    "region": 65,
+    "effect": "Unknown",
+    "start_position": 3250.0,
+    "end_position": 3299.9
+  },
+  {
+    "region": 66,
+    "effect": "Unknown",
+    "start_position": 3300.0,
+    "end_position": 3349.9
+  },
+  {
+    "region": 67,
+    "effect": "Unknown",
+    "start_position": 3350.0,
+    "end_position": 3399.9
+  },
+  {
+    "region": 68,
+    "effect": "Unknown",
+    "start_position": 3400.0,
+    "end_position": 3449.9
+  },
+  {
+    "region": 69,
+    "effect": "Unknown",
+    "start_position": 3450.0,
+    "end_position": 3499.9
+  },
+  {
+    "region": 70,
+    "effect": "Unknown",
+    "start_position": 3500.0,
+    "end_position": 3549.9
+  },
+  {
+    "region": 71,
+    "effect": "Unknown",
+    "start_position": 3550.0,
+    "end_position": 3599.9
+  },
+  {
+    "region": 72,
+    "effect": "Unknown",
+    "start_position": 3600.0,
+    "end_position": 3649.9
+  },
+  {
+    "region": 73,
+    "effect": "Unknown",
+    "start_position": 3650.0,
+    "end_position": 3699.9
+  },
+  {
+    "region": 74,
+    "effect": "Interference",
+    "start_position": 3700.0,
+    "end_position": 3749.9
+  },
+  {
+    "region": 75,
+    "effect": "Jewelled",
+    "start_position": 3750.0,
+    "end_position": 3799.9
+  },
+  {
+    "region": 76,
+    "effect": "Mining Efforts",
+    "start_position": 3800.0,
+    "end_position": 3849.9
+  },
+  {
+    "region": 77,
+    "effect": "Economy",
+    "start_position": 3850.0,
+    "end_position": 3899.9
+  },
+  {
+    "region": 78,
+    "effect": "Artisan",
+    "start_position": 3900.0,
+    "end_position": 3949.9
+  },
+  {
+    "region": 79,
+    "effect": "Training",
+    "start_position": 3950.0,
+    "end_position": 3999.9
+  },
+  {
+    "region": 80,
+    "effect": "Knowledge",
+    "start_position": 4000.0,
+    "end_position": 4049.9
+  },
+  {
+    "region": 81,
+    "effect": "Data Mining",
+    "start_position": 4050.0,
+    "end_position": 4099.9
+  },
+  {
+    "region": 82,
+    "effect": "Unknown",
+    "start_position": 4100.0,
+    "end_position": 4149.9
+  },
+  {
+    "region": 83,
+    "effect": "Colonial",
+    "start_position": 4150.0,
+    "end_position": 4199.9
+  },
+  {
+    "region": 84,
+    "effect": "Stellar Thrust",
+    "start_position": 4200.0,
+    "end_position": 4249.9
+  },
+  {
+    "region": 85,
+    "effect": "Unknown",
+    "start_position": 4250.0,
+    "end_position": 4299.9
+  },
+  {
+    "region": 86,
+    "effect": "Unknown",
+    "start_position": 4300.0,
+    "end_position": 4349.9
+  },
+  {
+    "region": 87,
+    "effect": "Unknown",
+    "start_position": 4350.0,
+    "end_position": 4399.9
+  },
+  {
+    "region": 88,
+    "effect": "Unknown",
+    "start_position": 4400.0,
+    "end_position": 4449.9
+  },
+  {
+    "region": 89,
+    "effect": "Unknown",
+    "start_position": 4450.0,
+    "end_position": 4499.9
+  },
+  {
+    "region": 90,
+    "effect": "Unknown",
+    "start_position": 4500.0,
+    "end_position": 4549.9
+  },
+  {
+    "region": 91,
+    "effect": "Surplus Runoff",
+    "start_position": 4550.0,
+    "end_position": 4599.9
+  },
+  {
+    "region": 92,
+    "effect": "Unknown",
+    "start_position": 4600.0,
+    "end_position": 4649.9
+  },
+  {
+    "region": 93,
+    "effect": "Unknown",
+    "start_position": 4650.0,
+    "end_position": 4699.9
+  },
+  {
+    "region": 94,
+    "effect": "Unknown",
+    "start_position": 4700.0,
+    "end_position": 4749.9
+  },
+  {
+    "region": 95,
+    "effect": "Unknown",
+    "start_position": 4750.0,
+    "end_position": 4799.9
+  },
+  {
+    "region": 96,
+    "effect": "Unknown",
+    "start_position": 4800.0,
+    "end_position": 4849.9
+  },
+  {
+    "region": 97,
+    "effect": "Fear",
+    "start_position": 4850.0,
+    "end_position": 4899.9
+  },
+  {
+    "region": 98,
+    "effect": "Terraformer",
+    "start_position": 4900.0,
+    "end_position": 4949.9
+  },
+  {
+    "region": 99,
+    "effect": "Risky Business",
+    "start_position": 4950.0,
+    "end_position": 4999.9
+  },
+  {
+    "region": 100,
+    "effect": "Scholar",
+    "start_position": 5000.0,
+    "end_position": 5049.9
+  },
+  {
+    "region": 101,
+    "effect": "Junker",
+    "start_position": 5050.0,
+    "end_position": 5099.9
+  },
+  {
+    "region": 102,
+    "effect": "Powered",
+    "start_position": 5100.0,
+    "end_position": 5149.9
+  },
+  {
+    "region": 103,
+    "effect": "Unnatural",
+    "start_position": 5150.0,
+    "end_position": 5199.9
+  },
+  {
+    "region": 104,
+    "effect": "Unhackable",
+    "start_position": 5200.0,
+    "end_position": 5249.9
+  },
+  {
+    "region": 105,
+    "effect": "Digital Noise",
+    "start_position": 5250.0,
+    "end_position": 5299.9
+  },
+  {
+    "region": 106,
+    "effect": "Unknown",
+    "start_position": 5300.0,
+    "end_position": 5349.9
+  },
+  {
+    "region": 107,
+    "effect": "Unknown",
+    "start_position": 5350.0,
+    "end_position": 5399.9
+  },
+  {
+    "region": 108,
+    "effect": "Unknown",
+    "start_position": 5400.0,
+    "end_position": 5449.9
+  },
+  {
+    "region": 109,
+    "effect": "Unknown",
+    "start_position": 5450.0,
+    "end_position": 5499.9
+  },
+  {
+    "region": 110,
+    "effect": "Economy",
+    "start_position": 5500.0,
+    "end_position": 5549.9
+  },
+  {
+    "region": 111,
+    "effect": "Unknown",
+    "start_position": 5550.0,
+    "end_position": 5599.9
+  },
+  {
+    "region": 112,
+    "effect": "Super Highway",
+    "start_position": 5600.0,
+    "end_position": 5649.9
+  },
+  {
+    "region": 113,
+    "effect": "Meteor",
+    "start_position": 5650.0,
+    "end_position": 5699.9
+  },
+  {
+    "region": 114,
+    "effect": "Scholar",
+    "start_position": 5700.0,
+    "end_position": 5749.9
+  },
+  {
+    "region": 115,
+    "effect": "Unhackable",
+    "start_position": 5750.0,
+    "end_position": 5799.9
+  },
+  {
+    "region": 116,
+    "effect": "Jewelled",
+    "start_position": 5800.0,
+    "end_position": 5849.9
+  },
+  {
+    "region": 117,
+    "effect": "Junker",
+    "start_position": 5850.0,
+    "end_position": 5899.9
+  },
+  {
+    "region": 118,
+    "effect": "Unknown",
+    "start_position": 5900.0,
+    "end_position": 5949.9
+  },
+  {
+    "region": 119,
+    "effect": "Unknown",
+    "start_position": 5950.0,
+    "end_position": 5999.9
+  },
+  {
+    "region": 120,
+    "effect": "Unknown",
+    "start_position": 6000.0,
+    "end_position": 6049.9
+  },
+  {
+    "region": 121,
+    "effect": "Unknown",
+    "start_position": 6050.0,
+    "end_position": 6099.9
+  },
+  {
+    "region": 122,
+    "effect": "Unknown",
+    "start_position": 6100.0,
+    "end_position": 6149.9
+  },
+  {
+    "region": 123,
+    "effect": "Terraformer",
+    "start_position": 6150.0,
+    "end_position": 6199.9
+  },
+  {
+    "region": 124,
+    "effect": "Unknown",
+    "start_position": 6200.0,
+    "end_position": 6249.9
+  },
+  {
+    "region": 125,
+    "effect": "Unknown",
+    "start_position": 6250.0,
+    "end_position": 6299.9
+  },
+  {
+    "region": 126,
+    "effect": "Unknown",
+    "start_position": 6300.0,
+    "end_position": 6349.9
+  },
+  {
+    "region": 127,
+    "effect": "Unknown",
+    "start_position": 6350.0,
+    "end_position": 6399.9
+  },
+  {
+    "region": 128,
+    "effect": "Unknown",
+    "start_position": 6400.0,
+    "end_position": 6449.9
+  },
+  {
+    "region": 129,
+    "effect": "Unknown",
+    "start_position": 6450.0,
+    "end_position": 6499.9
+  },
+  {
+    "region": 130,
+    "effect": "Unknown",
+    "start_position": 6500.0,
+    "end_position": 6549.9
+  },
+  {
+    "region": 131,
+    "effect": "Artisan",
+    "start_position": 6550.0,
+    "end_position": 6599.9
+  },
+  {
+    "region": 132,
+    "effect": "Unknown",
+    "start_position": 6600.0,
+    "end_position": 6649.9
+  },
+  {
+    "region": 133,
+    "effect": "Unknown",
+    "start_position": 6650.0,
+    "end_position": 6699.9
+  },
+  {
+    "region": 134,
+    "effect": "Unknown",
+    "start_position": 6700.0,
+    "end_position": 6749.9
+  },
+  {
+    "region": 135,
+    "effect": "Unknown",
+    "start_position": 6750.0,
+    "end_position": 6799.9
+  },
+  {
+    "region": 136,
+    "effect": "Unknown",
+    "start_position": 6800.0,
+    "end_position": 6849.9
+  },
+  {
+    "region": 137,
+    "effect": "Unknown",
+    "start_position": 6850.0,
+    "end_position": 6899.9
+  },
+  {
+    "region": 138,
+    "effect": "Botanist",
+    "start_position": 6900.0,
+    "end_position": 6949.9
+  },
+  {
+    "region": 139,
+    "effect": "Unknown",
+    "start_position": 6950.0,
+    "end_position": 6999.9
+  },
+  {
+    "region": 140,
+    "effect": "Unknown",
+    "start_position": 7000.0,
+    "end_position": 7049.9
+  },
+  {
+    "region": 141,
+    "effect": "Unknown",
+    "start_position": 7050.0,
+    "end_position": 7099.9
+  },
+  {
+    "region": 142,
+    "effect": "Unknown",
+    "start_position": 7100.0,
+    "end_position": 7149.9
+  },
+  {
+    "region": 143,
+    "effect": "Colonial",
+    "start_position": 7150.0,
+    "end_position": 7199.9
+  },
+  {
+    "region": 144,
+    "effect": "Charged",
+    "start_position": 7200.0,
+    "end_position": 7249.9
+  },
+  {
+    "region": 145,
+    "effect": "Boon",
+    "start_position": 7250.0,
+    "end_position": 7299.9
+  },
+  {
+    "region": 146,
+    "effect": "Risky Business",
+    "start_position": 7300.0,
+    "end_position": 7349.9
+  },
+  {
+    "region": 147,
+    "effect": "Charged",
+    "start_position": 7350.0,
+    "end_position": 7399.9
+  },
+  {
+    "region": 148,
+    "effect": "Botanical",
+    "start_position": 7400.0,
+    "end_position": 7449.9
+  },
+  {
+    "region": 149,
+    "effect": "Economy",
+    "start_position": 7450.0,
+    "end_position": 7499.9
+  },
+  {
+    "region": 150,
+    "effect": "Mist",
+    "start_position": 7500.0,
+    "end_position": 7549.9
+  },
+  {
+    "region": 151,
+    "effect": "Powered",
+    "start_position": 7550.0,
+    "end_position": 7599.9
+  },
+  {
+    "region": 152,
+    "effect": "Knowledge",
+    "start_position": 7600.0,
+    "end_position": 7649.9
+  },
+  {
+    "region": 153,
+    "effect": "Economy",
+    "start_position": 7650.0,
+    "end_position": 7699.9
+  },
+  {
+    "region": 154,
+    "effect": "Slingshot",
+    "start_position": 7700.0,
+    "end_position": 7749.9
+  },
+  {
+    "region": 155,
+    "effect": "Surplus Runoff",
+    "start_position": 7750.0,
+    "end_position": 7799.9
+  },
+  {
+    "region": 156,
+    "effect": "Knowledge",
+    "start_position": 7800.0,
+    "end_position": 7849.9
+  },
+  {
+    "region": 157,
+    "effect": "Botanical",
+    "start_position": 7850.0,
+    "end_position": 7899.9
+  },
+  {
+    "region": 158,
+    "effect": "Artisan",
+    "start_position": 7900.0,
+    "end_position": 7949.9
+  },
+  {
+    "region": 159,
+    "effect": "Game Reserve",
+    "start_position": 7950.0,
+    "end_position": 7999.9
+  },
+  {
+    "region": 160,
+    "effect": "Wonderful",
+    "start_position": 8000.0,
+    "end_position": 8049.9
+  },
+  {
+    "region": 161,
+    "effect": "Game Reserve",
+    "start_position": 8050.0,
+    "end_position": 8099.9
+  },
+  {
+    "region": 162,
+    "effect": "Botanist",
+    "start_position": 8100.0,
+    "end_position": 8149.9
+  },
+  {
+    "region": 163,
+    "effect": "Ion Disruption",
+    "start_position": 8150.0,
+    "end_position": 8199.9
+  },
+  {
+    "region": 164,
+    "effect": "Farmland",
+    "start_position": 8200.0,
+    "end_position": 8249.9
+  },
+  {
+    "region": 165,
+    "effect": "Dragon Age",
+    "start_position": 8250.0,
+    "end_position": 8299.9
+  },
+  {
+    "region": 166,
+    "effect": "Digital Flares",
+    "start_position": 8300.0,
+    "end_position": 8349.9
+  },
+  {
+    "region": 167,
+    "effect": "Data Mining",
+    "start_position": 8350.0,
+    "end_position": 8399.9
+  },
+  {
+    "region": 168,
+    "effect": "Mining",
+    "start_position": 8400.0,
+    "end_position": 8449.9
+  },
+  {
+    "region": 169,
+    "effect": "Colonial",
+    "start_position": 8450.0,
+    "end_position": 8499.9
+  },
+  {
+    "region": 170,
+    "effect": "Freelance",
+    "start_position": 8500.0,
+    "end_position": 8549.9
+  },
+  {
+    "region": 171,
+    "effect": "Mist",
+    "start_position": 8550.0,
+    "end_position": 8599.9
+  },
+  {
+    "region": 172,
+    "effect": "Dragon Age",
+    "start_position": 8600.0,
+    "end_position": 8649.9
+  },
+  {
+    "region": 173,
+    "effect": "Knowledge",
+    "start_position": 8650.0,
+    "end_position": 8699.9
+  },
+  {
+    "region": 174,
+    "effect": "Digital Noise",
+    "start_position": 8700.0,
+    "end_position": 8749.9
+  },
+  {
+    "region": 175,
+    "effect": "Affable",
+    "start_position": 8750.0,
+    "end_position": 8799.9
+  },
+  {
+    "region": 176,
+    "effect": "Null Wake",
+    "start_position": 8800.0,
+    "end_position": 8849.9
+  },
+  {
+    "region": 177,
+    "effect": "Boon",
+    "start_position": 8850.0,
+    "end_position": 8899.9
+  },
+  {
+    "region": 178,
+    "effect": "Unknown",
+    "start_position": 8900.0,
+    "end_position": 8949.9
+  },
+  {
+    "region": 179,
+    "effect": "Bandit",
+    "start_position": 8950.0,
+    "end_position": 8999.9
+  },
+  {
+    "region": 180,
+    "effect": "Fear",
+    "start_position": 9000.0,
+    "end_position": 9049.9
+  },
+  {
+    "region": 181,
+    "effect": "Game Reserve",
+    "start_position": 9050.0,
+    "end_position": 9099.9
+  },
+  {
+    "region": 182,
+    "effect": "Unknown",
+    "start_position": 9100.0,
+    "end_position": 9149.9
+  },
+  {
+    "region": 183,
+    "effect": "Meteor",
+    "start_position": 9150.0,
+    "end_position": 9199.9
+  },
+  {
+    "region": 184,
+    "effect": "Light Mixture",
+    "start_position": 9200.0,
+    "end_position": 9249.9
+  },
+  {
+    "region": 185,
+    "effect": "Nanite Nest",
+    "start_position": 9250.0,
+    "end_position": 9299.9
+  },
+  {
+    "region": 186,
+    "effect": "Unknown",
+    "start_position": 9300.0,
+    "end_position": 9349.9
+  },
+  {
+    "region": 187,
+    "effect": "Affable",
+    "start_position": 9350.0,
+    "end_position": 9399.9
+  },
+  {
+    "region": 188,
+    "effect": "Jammed Signal",
+    "start_position": 9400.0,
+    "end_position": 9449.9
+  },
+  {
+    "region": 189,
+    "effect": "Mining",
+    "start_position": 9450.0,
+    "end_position": 9499.9
+  },
+  {
+    "region": 190,
+    "effect": "Nanite Nest",
+    "start_position": 9500.0,
+    "end_position": 9549.9
+  },
+  {
+    "region": 191,
+    "effect": "Farmland",
+    "start_position": 9550.0,
+    "end_position": 9599.9
+  },
+  {
+    "region": 192,
+    "effect": "Knowledge",
+    "start_position": 9600.0,
+    "end_position": 9649.9
+  },
+  {
+    "region": 193,
+    "effect": "Botanist",
+    "start_position": 9650.0,
+    "end_position": 9699.9
+  },
+  {
+    "region": 194,
+    "effect": "Botanist",
+    "start_position": 9700.0,
+    "end_position": 9749.9
+  },
+  {
+    "region": 195,
+    "effect": "Dragon Age",
+    "start_position": 9750.0,
+    "end_position": 9799.9
+  },
+  {
+    "region": 196,
+    "effect": "Farmland",
+    "start_position": 9800.0,
+    "end_position": 9849.9
+  },
+  {
+    "region": 197,
+    "effect": "Training",
+    "start_position": 9850.0,
+    "end_position": 9899.9
+  },
+  {
+    "region": 198,
+    "effect": "Meteor",
+    "start_position": 9900.0,
+    "end_position": 9949.9
+  },
+  {
+    "region": 199,
+    "effect": "Affable",
+    "start_position": 9950.0,
+    "end_position": 9999.9
+  },
+  {
+    "region": 200,
+    "effect": "Dragon Age",
+    "start_position": 10000.0,
+    "end_position": 10049.9
+  },
+  {
+    "region": 201,
+    "effect": "Static",
+    "start_position": 10050.0,
+    "end_position": 10099.9
+  },
+  {
+    "region": 202,
+    "effect": "Training",
+    "start_position": 10100.0,
+    "end_position": 10149.9
+  },
+  {
+    "region": 203,
+    "effect": "Erased",
+    "start_position": 10150.0,
+    "end_position": 10199.9
+  },
+  {
+    "region": 204,
+    "effect": "Botanical",
+    "start_position": 10200.0,
+    "end_position": 10249.9
+  },
+  {
+    "region": 205,
+    "effect": "Stellar Drift",
+    "start_position": 10250.0,
+    "end_position": 10299.9
+  },
+  {
+    "region": 206,
+    "effect": "Unhackable",
+    "start_position": 10300.0,
+    "end_position": 10349.9
+  },
+  {
+    "region": 207,
+    "effect": "Knowledge",
+    "start_position": 10350.0,
+    "end_position": 10399.9
+  },
+  {
+    "region": 208,
+    "effect": "Knowledge",
+    "start_position": 10400.0,
+    "end_position": 10449.9
+  },
+  {
+    "region": 209,
+    "effect": "Digital Noise",
+    "start_position": 10450.0,
+    "end_position": 10499.9
+  },
+  {
+    "region": 210,
+    "effect": "Super Highway",
+    "start_position": 10500.0,
+    "end_position": 10549.9
+  },
+  {
+    "region": 211,
+    "effect": "Gastro",
+    "start_position": 10550.0,
+    "end_position": 10599.9
+  },
+  {
+    "region": 212,
+    "effect": "Risky Business",
+    "start_position": 10600.0,
+    "end_position": 10649.9
+  },
+  {
+    "region": 213,
+    "effect": "Charted",
+    "start_position": 10650.0,
+    "end_position": 10699.9
+  },
+  {
+    "region": 214,
+    "effect": "Boon",
+    "start_position": 10700.0,
+    "end_position": 10749.9
+  },
+  {
+    "region": 215,
+    "effect": "Mechanical Attraction",
+    "start_position": 10750.0,
+    "end_position": 10799.9
+  },
+  {
+    "region": 216,
+    "effect": "Descendant",
+    "start_position": 10800.0,
+    "end_position": 10849.9
+  },
+  {
+    "region": 217,
+    "effect": "Freelance",
+    "start_position": 10850.0,
+    "end_position": 10899.9
+  },
+  {
+    "region": 218,
+    "effect": "Charged",
+    "start_position": 10900.0,
+    "end_position": 10949.9
+  },
+  {
+    "region": 219,
+    "effect": "Economy",
+    "start_position": 10950.0,
+    "end_position": 10999.9
+  },
+  {
+    "region": 220,
+    "effect": "Graveyard",
+    "start_position": 11000.0,
+    "end_position": 11049.9
+  },
+  {
+    "region": 221,
+    "effect": "Farmland",
+    "start_position": 11050.0,
+    "end_position": 11099.9
+  },
+  {
+    "region": 222,
+    "effect": "Mining Efforts",
+    "start_position": 11100.0,
+    "end_position": 11149.9
+  },
+  {
+    "region": 223,
+    "effect": "Government",
+    "start_position": 11150.0,
+    "end_position": 11199.9
+  },
+  {
+    "region": 224,
+    "effect": "Corridor",
+    "start_position": 11200.0,
+    "end_position": 11249.9
+  },
+  {
+    "region": 225,
+    "effect": "Junker",
+    "start_position": 11250.0,
+    "end_position": 11299.9
+  },
+  {
+    "region": 226,
+    "effect": "Gastro",
+    "start_position": 11300.0,
+    "end_position": 11349.9
+  },
+  {
+    "region": 227,
+    "effect": "Terraformer",
+    "start_position": 11350.0,
+    "end_position": 11399.9
+  },
+  {
+    "region": 228,
+    "effect": "Junker",
+    "start_position": 11400.0,
+    "end_position": 11449.9
+  },
+  {
+    "region": 229,
+    "effect": "Discharged",
+    "start_position": 11450.0,
+    "end_position": 11499.9
+  },
+  {
+    "region": 230,
+    "effect": "Interference",
+    "start_position": 11500.0,
+    "end_position": 11549.9
+  },
+  {
+    "region": 231,
+    "effect": "Null Wake",
+    "start_position": 11550.0,
+    "end_position": 11599.9
+  },
+  {
+    "region": 232,
+    "effect": "Charged",
+    "start_position": 11600.0,
+    "end_position": 11649.9
+  },
+  {
+    "region": 233,
+    "effect": "Charged",
+    "start_position": 11650.0,
+    "end_position": 11699.9
+  },
+  {
+    "region": 234,
+    "effect": "Replenish",
+    "start_position": 11700.0,
+    "end_position": 11749.9
+  },
+  {
+    "region": 235,
+    "effect": "Replenish",
+    "start_position": 11750.0,
+    "end_position": 11799.9
+  },
+  {
+    "region": 236,
+    "effect": "Replenish",
+    "start_position": 11800.0,
+    "end_position": 11849.9
+  },
+  {
+    "region": 237,
+    "effect": "Stopwatch",
+    "start_position": 11850.0,
+    "end_position": 11899.9
+  },
+  {
+    "region": 238,
+    "effect": "Null Space Decay",
+    "start_position": 11900.0,
+    "end_position": 11949.9
+  },
+  {
+    "region": 239,
+    "effect": "Botanist",
+    "start_position": 11950.0,
+    "end_position": 11999.9
+  },
+  {
+    "region": 240,
+    "effect": "Replenish",
+    "start_position": 12000.0,
+    "end_position": 12049.9
+  },
+  {
+    "region": 241,
+    "effect": "Knowledge",
+    "start_position": 12050.0,
+    "end_position": 12099.9
+  },
+  {
+    "region": 242,
+    "effect": "Comet",
+    "start_position": 12100.0,
+    "end_position": 12149.9
+  },
+  {
+    "region": 243,
+    "effect": "Farmland",
+    "start_position": 12150.0,
+    "end_position": 12199.9
+  },
+  {
+    "region": 244,
+    "effect": "Graveyard",
+    "start_position": 12200.0,
+    "end_position": 12249.9
+  },
+  {
+    "region": 245,
+    "effect": "Mining",
+    "start_position": 12250.0,
+    "end_position": 12299.9
+  },
+  {
+    "region": 246,
+    "effect": "Blackout",
+    "start_position": 12300.0,
+    "end_position": 12349.9
+  },
+  {
+    "region": 247,
+    "effect": "Wonderful",
+    "start_position": 12350.0,
+    "end_position": 12399.9
+  },
+  {
+    "region": 248,
+    "effect": "Null Space Decay",
+    "start_position": 12400.0,
+    "end_position": 12449.9
+  },
+  {
+    "region": 249,
+    "effect": "Synthesis",
+    "start_position": 12450.0,
+    "end_position": 12499.9
+  },
+  {
+    "region": 250,
+    "effect": "Stopwatch",
+    "start_position": 12500.0,
+    "end_position": 12549.9
+  },
+  {
+    "region": 251,
+    "effect": "Null Space Decay",
+    "start_position": 12550.0,
+    "end_position": 12599.9
+  },
+  {
+    "region": 252,
+    "effect": "Farmland",
+    "start_position": 12600.0,
+    "end_position": 12649.9
+  },
+  {
+    "region": 253,
+    "effect": "Light Mixture",
+    "start_position": 12650.0,
+    "end_position": 12699.9
+  },
+  {
+    "region": 254,
+    "effect": "Digital Noise",
+    "start_position": 12700.0,
+    "end_position": 12749.9
+  },
+  {
+    "region": 255,
+    "effect": "Super Highway",
+    "start_position": 12750.0,
+    "end_position": 12799.9
+  },
+  {
+    "region": 256,
+    "effect": "Bandit",
+    "start_position": 12800.0,
+    "end_position": 12849.9
+  },
+  {
+    "region": 257,
+    "effect": "Barbarian",
+    "start_position": 12850.0,
+    "end_position": 12899.9
+  },
+  {
+    "region": 258,
+    "effect": "Surplus Runoff",
+    "start_position": 12900.0,
+    "end_position": 12949.9
+  },
+  {
+    "region": 259,
+    "effect": "Farmland",
+    "start_position": 12950.0,
+    "end_position": 12999.9
+  },
+  {
+    "region": 260,
+    "effect": "Blackout",
+    "start_position": 13000.0,
+    "end_position": 13049.9
+  },
+  {
+    "region": 261,
+    "effect": "Mining",
+    "start_position": 13050.0,
+    "end_position": 13099.9
+  },
+  {
+    "region": 262,
+    "effect": "Discharged",
+    "start_position": 13100.0,
+    "end_position": 13149.9
+  },
+  {
+    "region": 263,
+    "effect": "Overtime",
+    "start_position": 13150.0,
+    "end_position": 13199.9
+  },
+  {
+    "region": 264,
+    "effect": "Surplus Runoff",
+    "start_position": 13200.0,
+    "end_position": 13249.9
+  },
+  {
+    "region": 265,
+    "effect": "Bandit",
+    "start_position": 13250.0,
+    "end_position": 13299.9
+  },
+  {
+    "region": 266,
+    "effect": "Botanist",
+    "start_position": 13300.0,
+    "end_position": 13349.9
+  },
+  {
+    "region": 267,
+    "effect": "Slingshot",
+    "start_position": 13350.0,
+    "end_position": 13399.9
+  },
+  {
+    "region": 268,
+    "effect": "Stopwatch",
+    "start_position": 13400.0,
+    "end_position": 13449.9
+  },
+  {
+    "region": 269,
+    "effect": "Scholar",
+    "start_position": 13450.0,
+    "end_position": 13499.9
+  },
+  {
+    "region": 270,
+    "effect": "Mist",
+    "start_position": 13500.0,
+    "end_position": 13549.9
+  },
+  {
+    "region": 271,
+    "effect": "Powered",
+    "start_position": 13550.0,
+    "end_position": 13599.9
+  },
+  {
+    "region": 272,
+    "effect": "Charted",
+    "start_position": 13600.0,
+    "end_position": 13649.9
+  },
+  {
+    "region": 273,
+    "effect": "Junker",
+    "start_position": 13650.0,
+    "end_position": 13699.9
+  },
+  {
+    "region": 274,
+    "effect": "Bandit",
+    "start_position": 13700.0,
+    "end_position": 13749.9
+  },
+  {
+    "region": 275,
+    "effect": "Mist",
+    "start_position": 13750.0,
+    "end_position": 13799.9
+  },
+  {
+    "region": 276,
+    "effect": "Stopwatch",
+    "start_position": 13800.0,
+    "end_position": 13849.9
+  },
+  {
+    "region": 277,
+    "effect": "Affable",
+    "start_position": 13850.0,
+    "end_position": 13899.9
+  },
+  {
+    "region": 278,
+    "effect": "Botanist",
+    "start_position": 13900.0,
+    "end_position": 13949.9
+  },
+  {
+    "region": 279,
+    "effect": "Charted",
+    "start_position": 13950.0,
+    "end_position": 13999.9
+  },
+  {
+    "region": 280,
+    "effect": "Artisan",
+    "start_position": 14000.0,
+    "end_position": 14049.9
+  },
+  {
+    "region": 281,
+    "effect": "Wonderful",
+    "start_position": 14050.0,
+    "end_position": 14099.9
+  },
+  {
+    "region": 282,
+    "effect": "Ion Charge",
+    "start_position": 14100.0,
+    "end_position": 14149.9
+  },
+  {
+    "region": 283,
+    "effect": "Erased",
+    "start_position": 14150.0,
+    "end_position": 14199.9
+  },
+  {
+    "region": 284,
+    "effect": "Stellar Drift",
+    "start_position": 14200.0,
+    "end_position": 14249.9
+  },
+  {
+    "region": 285,
+    "effect": "Data Mining",
+    "start_position": 14250.0,
+    "end_position": 14299.9
+  },
+  {
+    "region": 286,
+    "effect": "Gastro",
+    "start_position": 14300.0,
+    "end_position": 14349.9
+  },
+  {
+    "region": 287,
+    "effect": "Charted",
+    "start_position": 14350.0,
+    "end_position": 14399.9
+  },
+  {
+    "region": 288,
+    "effect": "Charted",
+    "start_position": 14400.0,
+    "end_position": 14449.9
+  },
+  {
+    "region": 289,
+    "effect": "Botanist",
+    "start_position": 14450.0,
+    "end_position": 14499.9
+  },
+  {
+    "region": 290,
+    "effect": "Affable",
+    "start_position": 14500.0,
+    "end_position": 14549.9
+  },
+  {
+    "region": 291,
+    "effect": "Botanist",
+    "start_position": 14550.0,
+    "end_position": 14599.9
+  },
+  {
+    "region": 292,
+    "effect": "Stopwatch",
+    "start_position": 14600.0,
+    "end_position": 14649.9
+  },
+  {
+    "region": 293,
+    "effect": "Movers",
+    "start_position": 14650.0,
+    "end_position": 14699.9
+  },
+  {
+    "region": 294,
+    "effect": "Hero Forge",
+    "start_position": 14700.0,
+    "end_position": 14749.9
+  },
+  {
+    "region": 295,
+    "effect": "Gastro",
+    "start_position": 14750.0,
+    "end_position": 14799.9
+  },
+  {
+    "region": 296,
+    "effect": "Botanical",
+    "start_position": 14800.0,
+    "end_position": 14849.9
+  },
+  {
+    "region": 297,
+    "effect": "Botanist",
+    "start_position": 14850.0,
+    "end_position": 14899.9
+  },
+  {
+    "region": 298,
+    "effect": "Mechanical Attraction",
+    "start_position": 14900.0,
+    "end_position": 14949.9
+  },
+  {
+    "region": 299,
+    "effect": "Light Mixture",
+    "start_position": 14950.0,
+    "end_position": 14999.9
+  },
+  {
+    "region": 300,
+    "effect": "Wormhole",
+    "start_position": 15000.0,
+    "end_position": 15049.9
+  },
+  {
+    "region": 301,
+    "effect": "Slingshot",
+    "start_position": 15050.0,
+    "end_position": 15099.9
+  },
+  {
+    "region": 302,
+    "effect": "Botanist",
+    "start_position": 15100.0,
+    "end_position": 15149.9
+  },
+  {
+    "region": 303,
+    "effect": "Data Mining",
+    "start_position": 15150.0,
+    "end_position": 15199.9
+  },
+  {
+    "region": 304,
+    "effect": "Training",
+    "start_position": 15200.0,
+    "end_position": 15249.9
+  },
+  {
+    "region": 305,
+    "effect": "Light Mixture",
+    "start_position": 15250.0,
+    "end_position": 15299.9
+  },
+  {
+    "region": 306,
+    "effect": "Dragon Age",
+    "start_position": 15300.0,
+    "end_position": 15349.9
+  },
+  {
+    "region": 307,
+    "effect": "Overtime",
+    "start_position": 15350.0,
+    "end_position": 15399.9
+  },
+  {
+    "region": 308,
+    "effect": "Corridor",
+    "start_position": 15400.0,
+    "end_position": 15449.9
+  },
+  {
+    "region": 309,
+    "effect": "Null Wake",
+    "start_position": 15450.0,
+    "end_position": 15499.9
+  },
+  {
+    "region": 310,
+    "effect": "Movers",
+    "start_position": 15500.0,
+    "end_position": 15549.9
+  },
+  {
+    "region": 311,
+    "effect": "Meteor",
+    "start_position": 15550.0,
+    "end_position": 15599.9
+  },
+  {
+    "region": 312,
+    "effect": "Gastro",
+    "start_position": 15600.0,
+    "end_position": 15649.9
+  },
+  {
+    "region": 313,
+    "effect": "Null Space Decay",
+    "start_position": 15650.0,
+    "end_position": 15699.9
+  },
+  {
+    "region": 314,
+    "effect": "Junker",
+    "start_position": 15700.0,
+    "end_position": 15749.9
+  },
+  {
+    "region": 315,
+    "effect": "Jewelled",
+    "start_position": 15750.0,
+    "end_position": 15799.9
+  },
+  {
+    "region": 316,
+    "effect": "Unknown",
+    "start_position": 15800.0,
+    "end_position": 15849.9
+  },
+  {
+    "region": 317,
+    "effect": "Unknown",
+    "start_position": 15850.0,
+    "end_position": 15899.9
+  },
+  {
+    "region": 318,
+    "effect": "Unknown",
+    "start_position": 15900.0,
+    "end_position": 15949.9
+  },
+  {
+    "region": 319,
+    "effect": "Slingshot",
+    "start_position": 15950.0,
+    "end_position": 15999.9
+  },
+  {
+    "region": 320,
+    "effect": "Digital Noise",
+    "start_position": 16000.0,
+    "end_position": 16049.9
+  },
+  {
+    "region": 321,
+    "effect": "Digital Noise",
+    "start_position": 16050.0,
+    "end_position": 16099.9
+  },
+  {
+    "region": 322,
+    "effect": "Digital Noise",
+    "start_position": 16100.0,
+    "end_position": 16149.9
+  },
+  {
+    "region": 323,
+    "effect": "Digital Noise",
+    "start_position": 16150.0,
+    "end_position": 16199.9
+  },
+  {
+    "region": 324,
+    "effect": "Digital Noise",
+    "start_position": 16200.0,
+    "end_position": 16249.9
+  },
+  {
+    "region": 325,
+    "effect": "Digital Noise",
+    "start_position": 16250.0,
+    "end_position": 16299.9
+  },
+  {
+    "region": 326,
+    "effect": "Digital Noise",
+    "start_position": 16300.0,
+    "end_position": 16349.9
+  },
+  {
+    "region": 327,
+    "effect": "Digital Noise",
+    "start_position": 16350.0,
+    "end_position": 16399.9
+  },
+  {
+    "region": 328,
+    "effect": "Digital Noise",
+    "start_position": 16400.0,
+    "end_position": 16449.9
+  },
+  {
+    "region": 329,
+    "effect": "Charted",
+    "start_position": 16450.0,
+    "end_position": 16499.9
+  },
+  {
+    "region": 330,
+    "effect": "Digital Noise",
+    "start_position": 16500.0,
+    "end_position": 16549.9
+  },
+  {
+    "region": 331,
+    "effect": "Digital Noise",
+    "start_position": 16550.0,
+    "end_position": 16599.9
+  },
+  {
+    "region": 332,
+    "effect": "Digital Noise",
+    "start_position": 16600.0,
+    "end_position": 16649.9
+  },
+  {
+    "region": 333,
+    "effect": "Digital Noise",
+    "start_position": 16650.0,
+    "end_position": 16699.9
+  },
+  {
+    "region": 334,
+    "effect": "Digital Noise",
+    "start_position": 16700.0,
+    "end_position": 16749.9
+  },
+  {
+    "region": 335,
+    "effect": "Digital Noise",
+    "start_position": 16750.0,
+    "end_position": 16799.9
+  },
+  {
+    "region": 336,
+    "effect": "Digital Noise",
+    "start_position": 16800.0,
+    "end_position": 16849.9
+  },
+  {
+    "region": 337,
+    "effect": "Digital Noise",
+    "start_position": 16850.0,
+    "end_position": 16899.9
+  },
+  {
+    "region": 338,
+    "effect": "Digital Noise",
+    "start_position": 16900.0,
+    "end_position": 16949.9
+  },
+  {
+    "region": 339,
+    "effect": "Unknown",
+    "start_position": 16950.0,
+    "end_position": 16999.9
+  },
+  {
+    "region": 340,
+    "effect": "Unknown",
+    "start_position": 17000.0,
+    "end_position": 17049.9
+  },
+  {
+    "region": 341,
+    "effect": "Unknown",
+    "start_position": 17050.0,
+    "end_position": 17099.9
+  },
+  {
+    "region": 342,
+    "effect": "Unknown",
+    "start_position": 17100.0,
+    "end_position": 17149.9
+  },
+  {
+    "region": 343,
+    "effect": "Mist",
+    "start_position": 17150.0,
+    "end_position": 17199.9
+  },
+  {
+    "region": 344,
+    "effect": "Unknown",
+    "start_position": 17200.0,
+    "end_position": 17249.9
+  },
+  {
+    "region": 345,
+    "effect": "Mechanical Attraction",
+    "start_position": 17250.0,
+    "end_position": 17299.9
+  },
+  {
+    "region": 346,
+    "effect": "Unknown",
+    "start_position": 17300.0,
+    "end_position": 17349.9
+  },
+  {
+    "region": 347,
+    "effect": "Unknown",
+    "start_position": 17350.0,
+    "end_position": 17399.9
+  },
+  {
+    "region": 348,
+    "effect": "Unknown",
+    "start_position": 17400.0,
+    "end_position": 17449.9
+  },
+  {
+    "region": 349,
+    "effect": "Unknown",
+    "start_position": 17450.0,
+    "end_position": 17499.9
+  },
+  {
+    "region": 350,
+    "effect": "Unknown",
+    "start_position": 17500.0,
+    "end_position": 17549.9
+  },
+  {
+    "region": 351,
+    "effect": "Unknown",
+    "start_position": 17550.0,
+    "end_position": 17599.9
+  },
+  {
+    "region": 352,
+    "effect": "Unknown",
+    "start_position": 17600.0,
+    "end_position": 17649.9
+  },
+  {
+    "region": 353,
+    "effect": "Unknown",
+    "start_position": 17650.0,
+    "end_position": 17699.9
+  },
+  {
+    "region": 354,
+    "effect": "Unknown",
+    "start_position": 17700.0,
+    "end_position": 17749.9
+  },
+  {
+    "region": 355,
+    "effect": "Unknown",
+    "start_position": 17750.0,
+    "end_position": 17799.9
+  },
+  {
+    "region": 356,
+    "effect": "Unknown",
+    "start_position": 17800.0,
+    "end_position": 17849.9
+  },
+  {
+    "region": 357,
+    "effect": "Unknown",
+    "start_position": 17850.0,
+    "end_position": 17899.9
+  },
+  {
+    "region": 358,
+    "effect": "Unknown",
+    "start_position": 17900.0,
+    "end_position": 17949.9
+  },
+  {
+    "region": 359,
+    "effect": "Game Reserve",
+    "start_position": 17950.0,
+    "end_position": 17999.9
+  },
+  {
+    "region": 360,
+    "effect": "Unknown",
+    "start_position": 18000.0,
+    "end_position": 18049.9
+  },
+  {
+    "region": 361,
+    "effect": "Unknown",
+    "start_position": 18050.0,
+    "end_position": 18099.9
+  },
+  {
+    "region": 362,
+    "effect": "Unknown",
+    "start_position": 18100.0,
+    "end_position": 18149.9
+  },
+  {
+    "region": 363,
+    "effect": "Unknown",
+    "start_position": 18150.0,
+    "end_position": 18199.9
+  },
+  {
+    "region": 364,
+    "effect": "Unknown",
+    "start_position": 18200.0,
+    "end_position": 18249.9
+  },
+  {
+    "region": 365,
+    "effect": "Unknown",
+    "start_position": 18250.0,
+    "end_position": 18299.9
+  },
+  {
+    "region": 366,
+    "effect": "Unknown",
+    "start_position": 18300.0,
+    "end_position": 18349.9
+  },
+  {
+    "region": 367,
+    "effect": "Unknown",
+    "start_position": 18350.0,
+    "end_position": 18399.9
+  },
+  {
+    "region": 368,
+    "effect": "Unknown",
+    "start_position": 18400.0,
+    "end_position": 18449.9
+  },
+  {
+    "region": 369,
+    "effect": "Unknown",
+    "start_position": 18450.0,
+    "end_position": 18499.9
+  },
+  {
+    "region": 370,
+    "effect": "Unknown",
+    "start_position": 18500.0,
+    "end_position": 18549.9
+  },
+  {
+    "region": 371,
+    "effect": "Ion Charge",
+    "start_position": 18550.0,
+    "end_position": 18599.9
+  },
+  {
+    "region": 372,
+    "effect": "Training",
+    "start_position": 18600.0,
+    "end_position": 18649.9
+  },
+  {
+    "region": 373,
+    "effect": "Farmland",
+    "start_position": 18650.0,
+    "end_position": 18699.9
+  },
+  {
+    "region": 374,
+    "effect": "Null Space Decay",
+    "start_position": 18700.0,
+    "end_position": 18749.9
+  },
+  {
+    "region": 375,
+    "effect": "Nanite Nest",
+    "start_position": 18750.0,
+    "end_position": 18799.9
+  },
+  {
+    "region": 376,
+    "effect": "Farmland",
+    "start_position": 18800.0,
+    "end_position": 18849.9
+  },
+  {
+    "region": 377,
+    "effect": "Super Highway",
+    "start_position": 18850.0,
+    "end_position": 18899.9
+  },
+  {
+    "region": 378,
+    "effect": "Botanist",
+    "start_position": 18900.0,
+    "end_position": 18949.9
+  },
+  {
+    "region": 379,
+    "effect": "Dragon Age",
+    "start_position": 18950.0,
+    "end_position": 18999.9
+  },
+  {
+    "region": 380,
+    "effect": "Dragon Age",
+    "start_position": 19000.0,
+    "end_position": 19049.9
+  },
+  {
+    "region": 381,
+    "effect": "Colonial",
+    "start_position": 19050.0,
+    "end_position": 19099.9
+  },
+  {
+    "region": 382,
+    "effect": "Fear",
+    "start_position": 19100.0,
+    "end_position": 19149.9
+  },
+  {
+    "region": 383,
+    "effect": "Nanite Nest",
+    "start_position": 19150.0,
+    "end_position": 19199.9
+  },
+  {
+    "region": 384,
+    "effect": "Training",
+    "start_position": 19200.0,
+    "end_position": 19249.9
+  },
+  {
+    "region": 385,
+    "effect": "Unknown",
+    "start_position": 19250.0,
+    "end_position": 19299.9
+  },
+  {
+    "region": 386,
+    "effect": "Unknown",
+    "start_position": 19300.0,
+    "end_position": 19349.9
+  },
+  {
+    "region": 387,
+    "effect": "Unknown",
+    "start_position": 19350.0,
+    "end_position": 19399.9
+  },
+  {
+    "region": 388,
+    "effect": "Unknown",
+    "start_position": 19400.0,
+    "end_position": 19449.9
+  },
+  {
+    "region": 389,
+    "effect": "Unknown",
+    "start_position": 19450.0,
+    "end_position": 19499.9
+  },
+  {
+    "region": 390,
+    "effect": "Unknown",
+    "start_position": 19500.0,
+    "end_position": 19549.9
+  },
+  {
+    "region": 391,
+    "effect": "Unknown",
+    "start_position": 19550.0,
+    "end_position": 19599.9
+  },
+  {
+    "region": 392,
+    "effect": "Unknown",
+    "start_position": 19600.0,
+    "end_position": 19649.9
+  },
+  {
+    "region": 393,
+    "effect": "Unknown",
+    "start_position": 19650.0,
+    "end_position": 19699.9
+  },
+  {
+    "region": 394,
+    "effect": "Unknown",
+    "start_position": 19700.0,
+    "end_position": 19749.9
+  },
+  {
+    "region": 395,
+    "effect": "Mechanical Attraction",
+    "start_position": 19750.0,
+    "end_position": 19799.9
+  },
+  {
+    "region": 396,
+    "effect": "Unknown",
+    "start_position": 19800.0,
+    "end_position": 19849.9
+  },
+  {
+    "region": 397,
+    "effect": "Unknown",
+    "start_position": 19850.0,
+    "end_position": 19899.9
+  },
+  {
+    "region": 398,
+    "effect": "Unknown",
+    "start_position": 19900.0,
+    "end_position": 19949.9
+  },
+  {
+    "region": 399,
+    "effect": "Unknown",
+    "start_position": 19950.0,
+    "end_position": 19999.9
+  },
+  {
+    "region": 400,
+    "effect": "Jingoist",
+    "start_position": 20000.0,
+    "end_position": 20049.9
+  },
+  {
+    "region": 401,
+    "effect": "Unknown",
+    "start_position": 20050.0,
+    "end_position": 20099.9
+  },
+  {
+    "region": 402,
+    "effect": "Unknown",
+    "start_position": 20100.0,
+    "end_position": 20149.9
+  },
+  {
+    "region": 403,
+    "effect": "Unknown",
+    "start_position": 20150.0,
+    "end_position": 20199.9
+  },
+  {
+    "region": 481,
+    "effect": "Unknown",
+    "start_position": 24050.0,
+    "end_position": 24099.9
+  },
+  {
+    "region": 482,
+    "effect": "Unknown",
+    "start_position": 24100.0,
+    "end_position": 24149.9
+  },
+  {
+    "region": 483,
+    "effect": "Unknown",
+    "start_position": 24150.0,
+    "end_position": 24199.9
+  },
+  {
+    "region": 484,
+    "effect": "Unknown",
+    "start_position": 24200.0,
+    "end_position": 24249.9
+  },
+  {
+    "region": 485,
+    "effect": "Unnatural",
+    "start_position": 24250.0,
+    "end_position": 24299.9
+  },
+  {
+    "region": 486,
+    "effect": "Unknown",
+    "start_position": 24300.0,
+    "end_position": 24349.9
+  },
+  {
+    "region": 487,
+    "effect": "Unknown",
+    "start_position": 24350.0,
+    "end_position": 24399.9
+  },
+  {
+    "region": 488,
+    "effect": "Unknown",
+    "start_position": 24400.0,
+    "end_position": 24449.9
+  },
+  {
+    "region": 489,
+    "effect": "Unknown",
+    "start_position": 24450.0,
+    "end_position": 24499.9
+  },
+  {
+    "region": 490,
+    "effect": "Unknown",
+    "start_position": 24500.0,
+    "end_position": 24549.9
+  },
+  {
+    "region": 491,
+    "effect": "Unknown",
+    "start_position": 24550.0,
+    "end_position": 24599.9
+  },
+  {
+    "region": 492,
+    "effect": "Unknown",
+    "start_position": 24600.0,
+    "end_position": 24649.9
+  },
+  {
+    "region": 493,
+    "effect": "Unknown",
+    "start_position": 24650.0,
+    "end_position": 24699.9
+  },
+  {
+    "region": 494,
+    "effect": "Jammed Signal",
+    "start_position": 24700.0,
+    "end_position": 24749.9
+  },
+  {
+    "region": 495,
+    "effect": "Discharged",
+    "start_position": 24750.0,
+    "end_position": 24799.9
+  },
+  {
+    "region": 496,
+    "effect": "Jammed Signal",
+    "start_position": 24800.0,
+    "end_position": 24849.9
+  },
+  {
+    "region": 497,
+    "effect": "Stellar Thrust",
+    "start_position": 24850.0,
+    "end_position": 24899.9
+  },
+  {
+    "region": 498,
+    "effect": "Training",
+    "start_position": 24900.0,
+    "end_position": 24949.9
+  },
+  {
+    "region": 499,
+    "effect": "Economy",
+    "start_position": 24950.0,
+    "end_position": 24999.9
+  },
+  {
+    "region": 500,
+    "effect": "Meteor",
+    "start_position": 25000.0,
+    "end_position": 25049.9
+  },
+  {
+    "region": 501,
+    "effect": "Overtime",
+    "start_position": 25050.0,
+    "end_position": 25099.9
+  },
+  {
+    "region": 502,
+    "effect": "Unknown",
+    "start_position": 25100.0,
+    "end_position": 25149.9
+  },
+  {
+    "region": 503,
+    "effect": "Unknown",
+    "start_position": 25150.0,
+    "end_position": 25199.9
+  },
+  {
+    "region": 504,
+    "effect": "Unknown",
+    "start_position": 25200.0,
+    "end_position": 25249.9
+  },
+  {
+    "region": 505,
+    "effect": "Unknown",
+    "start_position": 25250.0,
+    "end_position": 25299.9
+  },
+  {
+    "region": 506,
+    "effect": "Unknown",
+    "start_position": 25300.0,
+    "end_position": 25349.9
+  },
+  {
+    "region": 507,
+    "effect": "Unknown",
+    "start_position": 25350.0,
+    "end_position": 25399.9
+  },
+  {
+    "region": 508,
+    "effect": "Unknown",
+    "start_position": 25400.0,
+    "end_position": 25449.9
+  },
+  {
+    "region": 509,
+    "effect": "Unknown",
+    "start_position": 25450.0,
+    "end_position": 25499.9
+  },
+  {
+    "region": 510,
+    "effect": "Unknown",
+    "start_position": 25500.0,
+    "end_position": 25549.9
+  },
+  {
+    "region": 511,
+    "effect": "Unknown",
+    "start_position": 25550.0,
+    "end_position": 25599.9
+  },
+  {
+    "region": 512,
+    "effect": "Unknown",
+    "start_position": 25600.0,
+    "end_position": 25649.9
+  },
+  {
+    "region": 513,
+    "effect": "Unknown",
+    "start_position": 25650.0,
+    "end_position": 25699.9
+  },
+  {
+    "region": 514,
+    "effect": "Unknown",
+    "start_position": 25700.0,
+    "end_position": 25749.9
+  },
+  {
+    "region": 515,
+    "effect": "Unknown",
+    "start_position": 25750.0,
+    "end_position": 25799.9
+  },
+  {
+    "region": 516,
+    "effect": "Unknown",
+    "start_position": 25800.0,
+    "end_position": 25849.9
+  },
+  {
+    "region": 517,
+    "effect": "Unknown",
+    "start_position": 25850.0,
+    "end_position": 25899.9
+  },
+  {
+    "region": 518,
+    "effect": "Unknown",
+    "start_position": 25900.0,
+    "end_position": 25949.9
+  },
+  {
+    "region": 519,
+    "effect": "Unknown",
+    "start_position": 25950.0,
+    "end_position": 25999.9
+  },
+  {
+    "region": 520,
+    "effect": "Unknown",
+    "start_position": 26000.0,
+    "end_position": 26049.9
+  },
+  {
+    "region": 521,
+    "effect": "Unknown",
+    "start_position": 26050.0,
+    "end_position": 26099.9
+  },
+  {
+    "region": 522,
+    "effect": "Unknown",
+    "start_position": 26100.0,
+    "end_position": 26149.9
+  },
+  {
+    "region": 523,
+    "effect": "Unknown",
+    "start_position": 26150.0,
+    "end_position": 26199.9
+  },
+  {
+    "region": 524,
+    "effect": "Unknown",
+    "start_position": 26200.0,
+    "end_position": 26249.9
+  },
+  {
+    "region": 525,
+    "effect": "Unknown",
+    "start_position": 26250.0,
+    "end_position": 26299.9
+  },
+  {
+    "region": 526,
+    "effect": "Unknown",
+    "start_position": 26300.0,
+    "end_position": 26349.9
+  },
+  {
+    "region": 527,
+    "effect": "Super Highway",
+    "start_position": 26350.0,
+    "end_position": 26399.9
+  },
+  {
+    "region": 528,
+    "effect": "Unknown",
+    "start_position": 26400.0,
+    "end_position": 26449.9
+  },
+  {
+    "region": 529,
+    "effect": "Static",
+    "start_position": 26450.0,
+    "end_position": 26499.9
+  },
+  {
+    "region": 530,
+    "effect": "Stopwatch",
+    "start_position": 26500.0,
+    "end_position": 26549.9
+  },
+  {
+    "region": 531,
+    "effect": "Boon",
+    "start_position": 26550.0,
+    "end_position": 26599.9
+  },
+  {
+    "region": 532,
+    "effect": "Unknown",
+    "start_position": 26600.0,
+    "end_position": 26649.9
+  },
+  {
+    "region": 533,
+    "effect": "Scholar",
+    "start_position": 26650.0,
+    "end_position": 26699.9
+  },
+  {
+    "region": 534,
+    "effect": "Unknown",
+    "start_position": 26700.0,
+    "end_position": 26749.9
+  },
+  {
+    "region": 535,
+    "effect": "Light Mixture",
+    "start_position": 26750.0,
+    "end_position": 26799.9
+  },
+  {
+    "region": 536,
+    "effect": "Unknown",
+    "start_position": 26800.0,
+    "end_position": 26849.9
+  },
+  {
+    "region": 537,
+    "effect": "Mining Efforts",
+    "start_position": 26850.0,
+    "end_position": 26899.9
+  },
+  {
+    "region": 538,
+    "effect": "Unknown",
+    "start_position": 26900.0,
+    "end_position": 26949.9
+  },
+  {
+    "region": 539,
+    "effect": "Null Space Decay",
+    "start_position": 26950.0,
+    "end_position": 26999.9
+  },
+  {
+    "region": 540,
+    "effect": "Unknown",
+    "start_position": 27000.0,
+    "end_position": 27049.9
+  },
+  {
+    "region": 541,
+    "effect": "Light Mixture",
+    "start_position": 27050.0,
+    "end_position": 27099.9
+  },
+  {
+    "region": 542,
+    "effect": "Unknown",
+    "start_position": 27100.0,
+    "end_position": 27149.9
+  },
+  {
+    "region": 543,
+    "effect": "Discharged",
+    "start_position": 27150.0,
+    "end_position": 27199.9
+  },
+  {
+    "region": 544,
+    "effect": "Unknown",
+    "start_position": 27200.0,
+    "end_position": 27249.9
+  },
+  {
+    "region": 545,
+    "effect": "Slingshot",
+    "start_position": 27250.0,
+    "end_position": 27299.9
+  },
+  {
+    "region": 546,
+    "effect": "Unknown",
+    "start_position": 27300.0,
+    "end_position": 27349.9
+  },
+  {
+    "region": 547,
+    "effect": "Unknown",
+    "start_position": 27350.0,
+    "end_position": 27399.9
+  },
+  {
+    "region": 548,
+    "effect": "Unknown",
+    "start_position": 27400.0,
+    "end_position": 27449.9
+  },
+  {
+    "region": 549,
+    "effect": "Unknown",
+    "start_position": 27450.0,
+    "end_position": 27499.9
+  },
+  {
+    "region": 550,
+    "effect": "Unknown",
+    "start_position": 27500.0,
+    "end_position": 27549.9
+  },
+  {
+    "region": 551,
+    "effect": "Unknown",
+    "start_position": 27550.0,
+    "end_position": 27599.9
+  },
+  {
+    "region": 552,
+    "effect": "Unknown",
+    "start_position": 27600.0,
+    "end_position": 27649.9
+  },
+  {
+    "region": 553,
+    "effect": "Unknown",
+    "start_position": 27650.0,
+    "end_position": 27699.9
+  },
+  {
+    "region": 554,
+    "effect": "Unknown",
+    "start_position": 27700.0,
+    "end_position": 27749.9
+  },
+  {
+    "region": 555,
+    "effect": "Unknown",
+    "start_position": 27750.0,
+    "end_position": 27799.9
+  },
+  {
+    "region": 556,
+    "effect": "Unknown",
+    "start_position": 27800.0,
+    "end_position": 27849.9
+  },
+  {
+    "region": 557,
+    "effect": "Unknown",
+    "start_position": 27850.0,
+    "end_position": 27899.9
+  },
+  {
+    "region": 558,
+    "effect": "Unknown",
+    "start_position": 27900.0,
+    "end_position": 27949.9
+  },
+  {
+    "region": 559,
+    "effect": "Unknown",
+    "start_position": 27950.0,
+    "end_position": 27999.9
+  },
+  {
+    "region": 560,
+    "effect": "Unknown",
+    "start_position": 28000.0,
+    "end_position": 28049.9
+  },
+  {
+    "region": 561,
+    "effect": "Unknown",
+    "start_position": 28050.0,
+    "end_position": 28099.9
+  },
+  {
+    "region": 562,
+    "effect": "Unknown",
+    "start_position": 28100.0,
+    "end_position": 28149.9
+  },
+  {
+    "region": 563,
+    "effect": "Unknown",
+    "start_position": 28150.0,
+    "end_position": 28199.9
+  },
+  {
+    "region": 564,
+    "effect": "Unknown",
+    "start_position": 28200.0,
+    "end_position": 28249.9
+  },
+  {
+    "region": 565,
+    "effect": "Unknown",
+    "start_position": 28250.0,
+    "end_position": 28299.9
+  },
+  {
+    "region": 566,
+    "effect": "Unknown",
+    "start_position": 28300.0,
+    "end_position": 28349.9
+  },
+  {
+    "region": 567,
+    "effect": "Unknown",
+    "start_position": 28350.0,
+    "end_position": 28399.9
+  },
+  {
+    "region": 568,
+    "effect": "Unknown",
+    "start_position": 28400.0,
+    "end_position": 28449.9
+  },
+  {
+    "region": 569,
+    "effect": "Unknown",
+    "start_position": 28450.0,
+    "end_position": 28499.9
+  },
+  {
+    "region": 570,
+    "effect": "Unknown",
+    "start_position": 28500.0,
+    "end_position": 28549.9
+  },
+  {
+    "region": 571,
+    "effect": "Unknown",
+    "start_position": 28550.0,
+    "end_position": 28599.9
+  },
+  {
+    "region": 572,
+    "effect": "Unknown",
+    "start_position": 28600.0,
+    "end_position": 28649.9
+  },
+  {
+    "region": 573,
+    "effect": "Unknown",
+    "start_position": 28650.0,
+    "end_position": 28699.9
+  },
+  {
+    "region": 574,
+    "effect": "Unknown",
+    "start_position": 28700.0,
+    "end_position": 28749.9
+  },
+  {
+    "region": 575,
+    "effect": "Unknown",
+    "start_position": 28750.0,
+    "end_position": 28799.9
+  },
+  {
+    "region": 576,
+    "effect": "Unknown",
+    "start_position": 28800.0,
+    "end_position": 28849.9
+  },
+  {
+    "region": 577,
+    "effect": "Unknown",
+    "start_position": 28850.0,
+    "end_position": 28899.9
+  },
+  {
+    "region": 578,
+    "effect": "Unknown",
+    "start_position": 28900.0,
+    "end_position": 28949.9
+  },
+  {
+    "region": 579,
+    "effect": "Unknown",
+    "start_position": 28950.0,
+    "end_position": 28999.9
+  },
+  {
+    "region": 580,
+    "effect": "Unknown",
+    "start_position": 29000.0,
+    "end_position": 29049.9
+  },
+  {
+    "region": 581,
+    "effect": "Unknown",
+    "start_position": 29050.0,
+    "end_position": 29099.9
+  },
+  {
+    "region": 582,
+    "effect": "Unknown",
+    "start_position": 29100.0,
+    "end_position": 29149.9
+  },
+  {
+    "region": 583,
+    "effect": "Unknown",
+    "start_position": 29150.0,
+    "end_position": 29199.9
+  },
+  {
+    "region": 584,
+    "effect": "Unknown",
+    "start_position": 29200.0,
+    "end_position": 29249.9
+  },
+  {
+    "region": 585,
+    "effect": "Unknown",
+    "start_position": 29250.0,
+    "end_position": 29299.9
+  },
+  {
+    "region": 586,
+    "effect": "Unknown",
+    "start_position": 29300.0,
+    "end_position": 29349.9
+  },
+  {
+    "region": 587,
+    "effect": "Unknown",
+    "start_position": 29350.0,
+    "end_position": 29399.9
+  },
+  {
+    "region": 588,
+    "effect": "Unknown",
+    "start_position": 29400.0,
+    "end_position": 29449.9
+  },
+  {
+    "region": 589,
+    "effect": "Unknown",
+    "start_position": 29450.0,
+    "end_position": 29499.9
+  },
+  {
+    "region": 590,
+    "effect": "Unknown",
+    "start_position": 29500.0,
+    "end_position": 29549.9
+  },
+  {
+    "region": 591,
+    "effect": "Unknown",
+    "start_position": 29550.0,
+    "end_position": 29599.9
+  },
+  {
+    "region": 592,
+    "effect": "Unknown",
+    "start_position": 29600.0,
+    "end_position": 29649.9
+  },
+  {
+    "region": 593,
+    "effect": "Unknown",
+    "start_position": 29650.0,
+    "end_position": 29699.9
+  },
+  {
+    "region": 594,
+    "effect": "Unknown",
+    "start_position": 29700.0,
+    "end_position": 29749.9
+  },
+  {
+    "region": 595,
+    "effect": "Unknown",
+    "start_position": 29750.0,
+    "end_position": 29799.9
+  },
+  {
+    "region": 596,
+    "effect": "Unknown",
+    "start_position": 29800.0,
+    "end_position": 29849.9
+  },
+  {
+    "region": 597,
+    "effect": "Unknown",
+    "start_position": 29850.0,
+    "end_position": 29899.9
+  },
+  {
+    "region": 598,
+    "effect": "Unknown",
+    "start_position": 29900.0,
+    "end_position": 29949.9
+  },
+  {
+    "region": 599,
+    "effect": "Unknown",
+    "start_position": 29950.0,
+    "end_position": 29999.9
+  },
+  {
+    "region": 600,
+    "effect": "Unknown",
+    "start_position": 30000.0,
+    "end_position": 30049.9
+  },
+  {
+    "region": 601,
+    "effect": "Unknown",
+    "start_position": 30050.0,
+    "end_position": 30099.9
+  },
+  {
+    "region": 602,
+    "effect": "Unknown",
+    "start_position": 30100.0,
+    "end_position": 30149.9
+  },
+  {
+    "region": 603,
+    "effect": "Unknown",
+    "start_position": 30150.0,
+    "end_position": 30199.9
+  },
+  {
+    "region": 604,
+    "effect": "Unknown",
+    "start_position": 30200.0,
+    "end_position": 30249.9
+  },
+  {
+    "region": 605,
+    "effect": "Unknown",
+    "start_position": 30250.0,
+    "end_position": 30299.9
+  },
+  {
+    "region": 606,
+    "effect": "Unknown",
+    "start_position": 30300.0,
+    "end_position": 30349.9
+  },
+  {
+    "region": 607,
+    "effect": "Unknown",
+    "start_position": 30350.0,
+    "end_position": 30399.9
+  },
+  {
+    "region": 608,
+    "effect": "Unknown",
+    "start_position": 30400.0,
+    "end_position": 30449.9
+  },
+  {
+    "region": 609,
+    "effect": "Unknown",
+    "start_position": 30450.0,
+    "end_position": 30499.9
+  },
+  {
+    "region": 610,
+    "effect": "Unknown",
+    "start_position": 30500.0,
+    "end_position": 30549.9
+  },
+  {
+    "region": 611,
+    "effect": "Unknown",
+    "start_position": 30550.0,
+    "end_position": 30599.9
+  },
+  {
+    "region": 612,
+    "effect": "Unknown",
+    "start_position": 30600.0,
+    "end_position": 30649.9
+  },
+  {
+    "region": 613,
+    "effect": "Unknown",
+    "start_position": 30650.0,
+    "end_position": 30699.9
+  },
+  {
+    "region": 614,
+    "effect": "Unknown",
+    "start_position": 30700.0,
+    "end_position": 30749.9
+  },
+  {
+    "region": 615,
+    "effect": "Unknown",
+    "start_position": 30750.0,
+    "end_position": 30799.9
+  },
+  {
+    "region": 616,
+    "effect": "Unknown",
+    "start_position": 30800.0,
+    "end_position": 30849.9
+  },
+  {
+    "region": 617,
+    "effect": "Unknown",
+    "start_position": 30850.0,
+    "end_position": 30899.9
+  },
+  {
+    "region": 618,
+    "effect": "Unknown",
+    "start_position": 30900.0,
+    "end_position": 30949.9
+  },
+  {
+    "region": 619,
+    "effect": "Unknown",
+    "start_position": 30950.0,
+    "end_position": 30999.9
+  },
+  {
+    "region": 620,
+    "effect": "Unknown",
+    "start_position": 31000.0,
+    "end_position": 31049.9
+  },
+  {
+    "region": 621,
+    "effect": "Unknown",
+    "start_position": 31050.0,
+    "end_position": 31099.9
+  },
+  {
+    "region": 622,
+    "effect": "Unknown",
+    "start_position": 31100.0,
+    "end_position": 31149.9
+  },
+  {
+    "region": 623,
+    "effect": "Unknown",
+    "start_position": 31150.0,
+    "end_position": 31199.9
+  },
+  {
+    "region": 624,
+    "effect": "Unknown",
+    "start_position": 31200.0,
+    "end_position": 31249.9
+  },
+  {
+    "region": 625,
+    "effect": "Unknown",
+    "start_position": 31250.0,
+    "end_position": 31299.9
+  },
+  {
+    "region": 626,
+    "effect": "Unknown",
+    "start_position": 31300.0,
+    "end_position": 31349.9
+  },
+  {
+    "region": 627,
+    "effect": "Unknown",
+    "start_position": 31350.0,
+    "end_position": 31399.9
+  },
+  {
+    "region": 628,
+    "effect": "Unknown",
+    "start_position": 31400.0,
+    "end_position": 31449.9
+  },
+  {
+    "region": 629,
+    "effect": "Unknown",
+    "start_position": 31450.0,
+    "end_position": 31499.9
+  },
+  {
+    "region": 630,
+    "effect": "Unknown",
+    "start_position": 31500.0,
+    "end_position": 31549.9
+  },
+  {
+    "region": 631,
+    "effect": "Unknown",
+    "start_position": 31550.0,
+    "end_position": 31599.9
+  },
+  {
+    "region": 632,
+    "effect": "Unknown",
+    "start_position": 31600.0,
+    "end_position": 31649.9
+  },
+  {
+    "region": 633,
+    "effect": "Unknown",
+    "start_position": 31650.0,
+    "end_position": 31699.9
+  },
+  {
+    "region": 634,
+    "effect": "Unknown",
+    "start_position": 31700.0,
+    "end_position": 31749.9
+  },
+  {
+    "region": 635,
+    "effect": "Unknown",
+    "start_position": 31750.0,
+    "end_position": 31799.9
+  },
+  {
+    "region": 636,
+    "effect": "Unknown",
+    "start_position": 31800.0,
+    "end_position": 31849.9
+  },
+  {
+    "region": 637,
+    "effect": "Unknown",
+    "start_position": 31850.0,
+    "end_position": 31899.9
+  },
+  {
+    "region": 638,
+    "effect": "Unknown",
+    "start_position": 31900.0,
+    "end_position": 31949.9
+  },
+  {
+    "region": 639,
+    "effect": "Unknown",
+    "start_position": 31950.0,
+    "end_position": 31999.9
+  },
+  {
+    "region": 640,
+    "effect": "Unknown",
+    "start_position": 32000.0,
+    "end_position": 32049.9
+  },
+  {
+    "region": 641,
+    "effect": "Unknown",
+    "start_position": 32050.0,
+    "end_position": 32099.9
+  },
+  {
+    "region": 642,
+    "effect": "Unknown",
+    "start_position": 32100.0,
+    "end_position": 32149.9
+  },
+  {
+    "region": 643,
+    "effect": "Unknown",
+    "start_position": 32150.0,
+    "end_position": 32199.9
+  },
+  {
+    "region": 644,
+    "effect": "Unknown",
+    "start_position": 32200.0,
+    "end_position": 32249.9
+  },
+  {
+    "region": 645,
+    "effect": "Unknown",
+    "start_position": 32250.0,
+    "end_position": 32299.9
+  },
+  {
+    "region": 646,
+    "effect": "Unknown",
+    "start_position": 32300.0,
+    "end_position": 32349.9
+  },
+  {
+    "region": 647,
+    "effect": "Unknown",
+    "start_position": 32350.0,
+    "end_position": 32399.9
+  },
+  {
+    "region": 648,
+    "effect": "Unknown",
+    "start_position": 32400.0,
+    "end_position": 32449.9
+  },
+  {
+    "region": 649,
+    "effect": "Unknown",
+    "start_position": 32450.0,
+    "end_position": 32499.9
+  },
+  {
+    "region": 650,
+    "effect": "Unknown",
+    "start_position": 32500.0,
+    "end_position": 32549.9
+  },
+  {
+    "region": 651,
+    "effect": "Unknown",
+    "start_position": 32550.0,
+    "end_position": 32599.9
+  },
+  {
+    "region": 652,
+    "effect": "Unknown",
+    "start_position": 32600.0,
+    "end_position": 32649.9
+  },
+  {
+    "region": 653,
+    "effect": "Unknown",
+    "start_position": 32650.0,
+    "end_position": 32699.9
+  },
+  {
+    "region": 654,
+    "effect": "Unknown",
+    "start_position": 32700.0,
+    "end_position": 32749.9
+  },
+  {
+    "region": 655,
+    "effect": "Unknown",
+    "start_position": 32750.0,
+    "end_position": 32799.9
+  },
+  {
+    "region": 656,
+    "effect": "Unknown",
+    "start_position": 32800.0,
+    "end_position": 32849.9
+  },
+  {
+    "region": 657,
+    "effect": "Unknown",
+    "start_position": 32850.0,
+    "end_position": 32899.9
+  },
+  {
+    "region": 658,
+    "effect": "Unknown",
+    "start_position": 32900.0,
+    "end_position": 32949.9
+  },
+  {
+    "region": 659,
+    "effect": "Unknown",
+    "start_position": 32950.0,
+    "end_position": 32999.9
+  },
+  {
+    "region": 660,
+    "effect": "Unknown",
+    "start_position": 33000.0,
+    "end_position": 33049.9
+  },
+  {
+    "region": 661,
+    "effect": "Unknown",
+    "start_position": 33050.0,
+    "end_position": 33099.9
+  },
+  {
+    "region": 662,
+    "effect": "Unknown",
+    "start_position": 33100.0,
+    "end_position": 33149.9
+  },
+  {
+    "region": 663,
+    "effect": "Unknown",
+    "start_position": 33150.0,
+    "end_position": 33199.9
+  },
+  {
+    "region": 664,
+    "effect": "Unknown",
+    "start_position": 33200.0,
+    "end_position": 33249.9
+  },
+  {
+    "region": 665,
+    "effect": "Unknown",
+    "start_position": 33250.0,
+    "end_position": 33299.9
+  },
+  {
+    "region": 666,
+    "effect": "Unknown",
+    "start_position": 33300.0,
+    "end_position": 33349.9
+  },
+  {
+    "region": 667,
+    "effect": "Unknown",
+    "start_position": 33350.0,
+    "end_position": 33399.9
+  },
+  {
+    "region": 668,
+    "effect": "Unknown",
+    "start_position": 33400.0,
+    "end_position": 33449.9
+  },
+  {
+    "region": 669,
+    "effect": "Unknown",
+    "start_position": 33450.0,
+    "end_position": 33499.9
+  },
+  {
+    "region": 670,
+    "effect": "Unknown",
+    "start_position": 33500.0,
+    "end_position": 33549.9
+  },
+  {
+    "region": 671,
+    "effect": "Unknown",
+    "start_position": 33550.0,
+    "end_position": 33599.9
+  },
+  {
+    "region": 672,
+    "effect": "Unknown",
+    "start_position": 33600.0,
+    "end_position": 33649.9
+  },
+  {
+    "region": 673,
+    "effect": "Unknown",
+    "start_position": 33650.0,
+    "end_position": 33699.9
+  },
+  {
+    "region": 674,
+    "effect": "Unknown",
+    "start_position": 33700.0,
+    "end_position": 33749.9
+  },
+  {
+    "region": 675,
+    "effect": "Unknown",
+    "start_position": 33750.0,
+    "end_position": 33799.9
+  },
+  {
+    "region": 676,
+    "effect": "Unknown",
+    "start_position": 33800.0,
+    "end_position": 33849.9
+  },
+  {
+    "region": 677,
+    "effect": "Unknown",
+    "start_position": 33850.0,
+    "end_position": 33899.9
+  },
+  {
+    "region": 678,
+    "effect": "Unknown",
+    "start_position": 33900.0,
+    "end_position": 33949.9
+  },
+  {
+    "region": 679,
+    "effect": "Unknown",
+    "start_position": 33950.0,
+    "end_position": 33999.9
+  },
+  {
+    "region": 680,
+    "effect": "Unknown",
+    "start_position": 34000.0,
+    "end_position": 34049.9
+  },
+  {
+    "region": 681,
+    "effect": "Unknown",
+    "start_position": 34050.0,
+    "end_position": 34099.9
+  },
+  {
+    "region": 682,
+    "effect": "Unknown",
+    "start_position": 34100.0,
+    "end_position": 34149.9
+  },
+  {
+    "region": 683,
+    "effect": "Unknown",
+    "start_position": 34150.0,
+    "end_position": 34199.9
+  },
+  {
+    "region": 684,
+    "effect": "Unknown",
+    "start_position": 34200.0,
+    "end_position": 34249.9
+  },
+  {
+    "region": 685,
+    "effect": "Unknown",
+    "start_position": 34250.0,
+    "end_position": 34299.9
+  },
+  {
+    "region": 686,
+    "effect": "Unknown",
+    "start_position": 34300.0,
+    "end_position": 34349.9
+  },
+  {
+    "region": 687,
+    "effect": "Unknown",
+    "start_position": 34350.0,
+    "end_position": 34399.9
+  },
+  {
+    "region": 688,
+    "effect": "Unknown",
+    "start_position": 34400.0,
+    "end_position": 34449.9
+  },
+  {
+    "region": 689,
+    "effect": "Unknown",
+    "start_position": 34450.0,
+    "end_position": 34499.9
+  },
+  {
+    "region": 690,
+    "effect": "Unknown",
+    "start_position": 34500.0,
+    "end_position": 34549.9
+  },
+  {
+    "region": 691,
+    "effect": "Unknown",
+    "start_position": 34550.0,
+    "end_position": 34599.9
+  },
+  {
+    "region": 692,
+    "effect": "Unknown",
+    "start_position": 34600.0,
+    "end_position": 34649.9
+  },
+  {
+    "region": 693,
+    "effect": "Unknown",
+    "start_position": 34650.0,
+    "end_position": 34699.9
+  },
+  {
+    "region": 694,
+    "effect": "Unknown",
+    "start_position": 34700.0,
+    "end_position": 34749.9
+  },
+  {
+    "region": 695,
+    "effect": "Unknown",
+    "start_position": 34750.0,
+    "end_position": 34799.9
+  },
+  {
+    "region": 696,
+    "effect": "Unknown",
+    "start_position": 34800.0,
+    "end_position": 34849.9
+  },
+  {
+    "region": 697,
+    "effect": "Unknown",
+    "start_position": 34850.0,
+    "end_position": 34899.9
+  },
+  {
+    "region": 698,
+    "effect": "Unknown",
+    "start_position": 34900.0,
+    "end_position": 34949.9
+  },
+  {
+    "region": 699,
+    "effect": "Unknown",
+    "start_position": 34950.0,
+    "end_position": 34999.9
+  },
+  {
+    "region": 700,
+    "effect": "Unknown",
+    "start_position": 35000.0,
+    "end_position": 35049.9
+  },
+  {
+    "region": 701,
+    "effect": "Unknown",
+    "start_position": 35050.0,
+    "end_position": 35099.9
+  },
+  {
+    "region": 702,
+    "effect": "Unknown",
+    "start_position": 35100.0,
+    "end_position": 35149.9
+  },
+  {
+    "region": 703,
+    "effect": "Unknown",
+    "start_position": 35150.0,
+    "end_position": 35199.9
+  },
+  {
+    "region": 704,
+    "effect": "Unknown",
+    "start_position": 35200.0,
+    "end_position": 35249.9
+  },
+  {
+    "region": 705,
+    "effect": "Unknown",
+    "start_position": 35250.0,
+    "end_position": 35299.9
+  },
+  {
+    "region": 706,
+    "effect": "Unknown",
+    "start_position": 35300.0,
+    "end_position": 35349.9
+  },
+  {
+    "region": 707,
+    "effect": "Unknown",
+    "start_position": 35350.0,
+    "end_position": 35399.9
+  },
+  {
+    "region": 708,
+    "effect": "Unknown",
+    "start_position": 35400.0,
+    "end_position": 35449.9
+  },
+  {
+    "region": 709,
+    "effect": "Unknown",
+    "start_position": 35450.0,
+    "end_position": 35499.9
+  },
+  {
+    "region": 710,
+    "effect": "Unknown",
+    "start_position": 35500.0,
+    "end_position": 35549.9
+  },
+  {
+    "region": 711,
+    "effect": "Unknown",
+    "start_position": 35550.0,
+    "end_position": 35599.9
+  },
+  {
+    "region": 712,
+    "effect": "Unknown",
+    "start_position": 35600.0,
+    "end_position": 35649.9
+  },
+  {
+    "region": 713,
+    "effect": "Unknown",
+    "start_position": 35650.0,
+    "end_position": 35699.9
+  },
+  {
+    "region": 714,
+    "effect": "Unknown",
+    "start_position": 35700.0,
+    "end_position": 35749.9
+  },
+  {
+    "region": 715,
+    "effect": "Unknown",
+    "start_position": 35750.0,
+    "end_position": 35799.9
+  },
+  {
+    "region": 716,
+    "effect": "Unknown",
+    "start_position": 35800.0,
+    "end_position": 35849.9
+  },
+  {
+    "region": 717,
+    "effect": "Unknown",
+    "start_position": 35850.0,
+    "end_position": 35899.9
+  },
+  {
+    "region": 718,
+    "effect": "Unknown",
+    "start_position": 35900.0,
+    "end_position": 35949.9
+  },
+  {
+    "region": 719,
+    "effect": "Unknown",
+    "start_position": 35950.0,
+    "end_position": 35999.9
+  },
+  {
+    "region": 720,
+    "effect": "Unknown",
+    "start_position": 36000.0,
+    "end_position": 36049.9
+  },
+  {
+    "region": 721,
+    "effect": "Unknown",
+    "start_position": 36050.0,
+    "end_position": 36099.9
+  },
+  {
+    "region": 722,
+    "effect": "Unknown",
+    "start_position": 36100.0,
+    "end_position": 36149.9
+  },
+  {
+    "region": 723,
+    "effect": "Unknown",
+    "start_position": 36150.0,
+    "end_position": 36199.9
+  },
+  {
+    "region": 724,
+    "effect": "Unknown",
+    "start_position": 36200.0,
+    "end_position": 36249.9
+  },
+  {
+    "region": 725,
+    "effect": "Unknown",
+    "start_position": 36250.0,
+    "end_position": 36299.9
+  },
+  {
+    "region": 726,
+    "effect": "Unknown",
+    "start_position": 36300.0,
+    "end_position": 36349.9
+  },
+  {
+    "region": 727,
+    "effect": "Unknown",
+    "start_position": 36350.0,
+    "end_position": 36399.9
+  },
+  {
+    "region": 728,
+    "effect": "Unknown",
+    "start_position": 36400.0,
+    "end_position": 36449.9
+  },
+  {
+    "region": 729,
+    "effect": "Unknown",
+    "start_position": 36450.0,
+    "end_position": 36499.9
+  },
+  {
+    "region": 730,
+    "effect": "Unknown",
+    "start_position": 36500.0,
+    "end_position": 36549.9
+  },
+  {
+    "region": 731,
+    "effect": "Unknown",
+    "start_position": 36550.0,
+    "end_position": 36599.9
+  },
+  {
+    "region": 732,
+    "effect": "Unknown",
+    "start_position": 36600.0,
+    "end_position": 36649.9
+  },
+  {
+    "region": 733,
+    "effect": "Unknown",
+    "start_position": 36650.0,
+    "end_position": 36699.9
+  },
+  {
+    "region": 734,
+    "effect": "Unknown",
+    "start_position": 36700.0,
+    "end_position": 36749.9
+  },
+  {
+    "region": 735,
+    "effect": "Unknown",
+    "start_position": 36750.0,
+    "end_position": 36799.9
+  },
+  {
+    "region": 736,
+    "effect": "Unknown",
+    "start_position": 36800.0,
+    "end_position": 36849.9
+  },
+  {
+    "region": 737,
+    "effect": "Unknown",
+    "start_position": 36850.0,
+    "end_position": 36899.9
+  },
+  {
+    "region": 738,
+    "effect": "Unknown",
+    "start_position": 36900.0,
+    "end_position": 36949.9
+  },
+  {
+    "region": 739,
+    "effect": "Unknown",
+    "start_position": 36950.0,
+    "end_position": 36999.9
+  },
+  {
+    "region": 740,
+    "effect": "Unknown",
+    "start_position": 37000.0,
+    "end_position": 37049.9
+  },
+  {
+    "region": 741,
+    "effect": "Unknown",
+    "start_position": 37050.0,
+    "end_position": 37099.9
+  },
+  {
+    "region": 742,
+    "effect": "Unknown",
+    "start_position": 37100.0,
+    "end_position": 37149.9
+  },
+  {
+    "region": 743,
+    "effect": "Unknown",
+    "start_position": 37150.0,
+    "end_position": 37199.9
+  },
+  {
+    "region": 744,
+    "effect": "Unknown",
+    "start_position": 37200.0,
+    "end_position": 37249.9
+  },
+  {
+    "region": 745,
+    "effect": "Unknown",
+    "start_position": 37250.0,
+    "end_position": 37299.9
+  },
+  {
+    "region": 746,
+    "effect": "Unknown",
+    "start_position": 37300.0,
+    "end_position": 37349.9
+  },
+  {
+    "region": 747,
+    "effect": "Unknown",
+    "start_position": 37350.0,
+    "end_position": 37399.9
+  },
+  {
+    "region": 748,
+    "effect": "Unknown",
+    "start_position": 37400.0,
+    "end_position": 37449.9
+  },
+  {
+    "region": 749,
+    "effect": "Unknown",
+    "start_position": 37450.0,
+    "end_position": 37499.9
+  },
+  {
+    "region": 750,
+    "effect": "Unknown",
+    "start_position": 37500.0,
+    "end_position": 37549.9
+  },
+  {
+    "region": 751,
+    "effect": "Unknown",
+    "start_position": 37550.0,
+    "end_position": 37599.9
+  },
+  {
+    "region": 752,
+    "effect": "Unknown",
+    "start_position": 37600.0,
+    "end_position": 37649.9
+  },
+  {
+    "region": 753,
+    "effect": "Unknown",
+    "start_position": 37650.0,
+    "end_position": 37699.9
+  },
+  {
+    "region": 754,
+    "effect": "Unknown",
+    "start_position": 37700.0,
+    "end_position": 37749.9
+  },
+  {
+    "region": 755,
+    "effect": "Unknown",
+    "start_position": 37750.0,
+    "end_position": 37799.9
+  },
+  {
+    "region": 756,
+    "effect": "Unknown",
+    "start_position": 37800.0,
+    "end_position": 37849.9
+  },
+  {
+    "region": 757,
+    "effect": "Unknown",
+    "start_position": 37850.0,
+    "end_position": 37899.9
+  },
+  {
+    "region": 758,
+    "effect": "Unknown",
+    "start_position": 37900.0,
+    "end_position": 37949.9
+  },
+  {
+    "region": 759,
+    "effect": "Unknown",
+    "start_position": 37950.0,
+    "end_position": 37999.9
+  },
+  {
+    "region": 760,
+    "effect": "Unknown",
+    "start_position": 38000.0,
+    "end_position": 38049.9
+  },
+  {
+    "region": 761,
+    "effect": "Unknown",
+    "start_position": 38050.0,
+    "end_position": 38099.9
+  },
+  {
+    "region": 762,
+    "effect": "Unknown",
+    "start_position": 38100.0,
+    "end_position": 38149.9
+  },
+  {
+    "region": 763,
+    "effect": "Unknown",
+    "start_position": 38150.0,
+    "end_position": 38199.9
+  },
+  {
+    "region": 764,
+    "effect": "Unknown",
+    "start_position": 38200.0,
+    "end_position": 38249.9
+  },
+  {
+    "region": 765,
+    "effect": "Unknown",
+    "start_position": 38250.0,
+    "end_position": 38299.9
+  },
+  {
+    "region": 766,
+    "effect": "Unknown",
+    "start_position": 38300.0,
+    "end_position": 38349.9
+  },
+  {
+    "region": 767,
+    "effect": "Unknown",
+    "start_position": 38350.0,
+    "end_position": 38399.9
+  },
+  {
+    "region": 768,
+    "effect": "Unknown",
+    "start_position": 38400.0,
+    "end_position": 38449.9
+  },
+  {
+    "region": 769,
+    "effect": "Unknown",
+    "start_position": 38450.0,
+    "end_position": 38499.9
+  },
+  {
+    "region": 770,
+    "effect": "Unknown",
+    "start_position": 38500.0,
+    "end_position": 38549.9
+  },
+  {
+    "region": 771,
+    "effect": "Unknown",
+    "start_position": 38550.0,
+    "end_position": 38599.9
+  },
+  {
+    "region": 772,
+    "effect": "Unknown",
+    "start_position": 38600.0,
+    "end_position": 38649.9
+  },
+  {
+    "region": 773,
+    "effect": "Unknown",
+    "start_position": 38650.0,
+    "end_position": 38699.9
+  },
+  {
+    "region": 774,
+    "effect": "Unknown",
+    "start_position": 38700.0,
+    "end_position": 38749.9
+  },
+  {
+    "region": 775,
+    "effect": "Unknown",
+    "start_position": 38750.0,
+    "end_position": 38799.9
+  },
+  {
+    "region": 776,
+    "effect": "Unknown",
+    "start_position": 38800.0,
+    "end_position": 38849.9
+  },
+  {
+    "region": 777,
+    "effect": "Unknown",
+    "start_position": 38850.0,
+    "end_position": 38899.9
+  },
+  {
+    "region": 778,
+    "effect": "Unknown",
+    "start_position": 38900.0,
+    "end_position": 38949.9
+  },
+  {
+    "region": 779,
+    "effect": "Unknown",
+    "start_position": 38950.0,
+    "end_position": 38999.9
+  },
+  {
+    "region": 780,
+    "effect": "Unknown",
+    "start_position": 39000.0,
+    "end_position": 39049.9
+  },
+  {
+    "region": 781,
+    "effect": "Unknown",
+    "start_position": 39050.0,
+    "end_position": 39099.9
+  },
+  {
+    "region": 782,
+    "effect": "Unknown",
+    "start_position": 39100.0,
+    "end_position": 39149.9
+  },
+  {
+    "region": 783,
+    "effect": "Unknown",
+    "start_position": 39150.0,
+    "end_position": 39199.9
+  },
+  {
+    "region": 784,
+    "effect": "Unknown",
+    "start_position": 39200.0,
+    "end_position": 39249.9
+  },
+  {
+    "region": 785,
+    "effect": "Unknown",
+    "start_position": 39250.0,
+    "end_position": 39299.9
+  },
+  {
+    "region": 786,
+    "effect": "Unknown",
+    "start_position": 39300.0,
+    "end_position": 39349.9
+  },
+  {
+    "region": 787,
+    "effect": "Unknown",
+    "start_position": 39350.0,
+    "end_position": 39399.9
+  },
+  {
+    "region": 788,
+    "effect": "Unknown",
+    "start_position": 39400.0,
+    "end_position": 39449.9
+  },
+  {
+    "region": 789,
+    "effect": "Unknown",
+    "start_position": 39450.0,
+    "end_position": 39499.9
+  },
+  {
+    "region": 790,
+    "effect": "Unknown",
+    "start_position": 39500.0,
+    "end_position": 39549.9
+  },
+  {
+    "region": 791,
+    "effect": "Unknown",
+    "start_position": 39550.0,
+    "end_position": 39599.9
+  },
+  {
+    "region": 792,
+    "effect": "Unknown",
+    "start_position": 39600.0,
+    "end_position": 39649.9
+  },
+  {
+    "region": 793,
+    "effect": "Unknown",
+    "start_position": 39650.0,
+    "end_position": 39699.9
+  },
+  {
+    "region": 794,
+    "effect": "Unknown",
+    "start_position": 39700.0,
+    "end_position": 39749.9
+  },
+  {
+    "region": 795,
+    "effect": "Unknown",
+    "start_position": 39750.0,
+    "end_position": 39799.9
+  },
+  {
+    "region": 796,
+    "effect": "Unknown",
+    "start_position": 39800.0,
+    "end_position": 39849.9
+  },
+  {
+    "region": 797,
+    "effect": "Unknown",
+    "start_position": 39850.0,
+    "end_position": 39899.9
+  },
+  {
+    "region": 798,
+    "effect": "Unknown",
+    "start_position": 39900.0,
+    "end_position": 39949.9
+  },
+  {
+    "region": 799,
+    "effect": "Unknown",
+    "start_position": 39950.0,
+    "end_position": 39999.9
+  },
+  {
+    "region": 800,
+    "effect": "Unknown",
+    "start_position": 40000.0,
+    "end_position": 40049.9
+  },
+  {
+    "region": 801,
+    "effect": "Unknown",
+    "start_position": 40050.0,
+    "end_position": 40099.9
+  },
+  {
+    "region": 802,
+    "effect": "Unknown",
+    "start_position": 40100.0,
+    "end_position": 40149.9
+  },
+  {
+    "region": 803,
+    "effect": "Unknown",
+    "start_position": 40150.0,
+    "end_position": 40199.9
+  },
+  {
+    "region": 804,
+    "effect": "Unknown",
+    "start_position": 40200.0,
+    "end_position": 40249.9
+  },
+  {
+    "region": 805,
+    "effect": "Unknown",
+    "start_position": 40250.0,
+    "end_position": 40299.9
+  },
+  {
+    "region": 806,
+    "effect": "Unknown",
+    "start_position": 40300.0,
+    "end_position": 40349.9
+  },
+  {
+    "region": 807,
+    "effect": "Unknown",
+    "start_position": 40350.0,
+    "end_position": 40399.9
+  },
+  {
+    "region": 808,
+    "effect": "Unknown",
+    "start_position": 40400.0,
+    "end_position": 40449.9
+  },
+  {
+    "region": 809,
+    "effect": "Unknown",
+    "start_position": 40450.0,
+    "end_position": 40499.9
+  },
+  {
+    "region": 810,
+    "effect": "Unknown",
+    "start_position": 40500.0,
+    "end_position": 40549.9
+  },
+  {
+    "region": 811,
+    "effect": "Unknown",
+    "start_position": 40550.0,
+    "end_position": 40599.9
+  },
+  {
+    "region": 812,
+    "effect": "Unknown",
+    "start_position": 40600.0,
+    "end_position": 40649.9
+  },
+  {
+    "region": 813,
+    "effect": "Unknown",
+    "start_position": 40650.0,
+    "end_position": 40699.9
+  },
+  {
+    "region": 814,
+    "effect": "Unknown",
+    "start_position": 40700.0,
+    "end_position": 40749.9
+  },
+  {
+    "region": 815,
+    "effect": "Unknown",
+    "start_position": 40750.0,
+    "end_position": 40799.9
+  },
+  {
+    "region": 816,
+    "effect": "Unknown",
+    "start_position": 40800.0,
+    "end_position": 40849.9
+  },
+  {
+    "region": 817,
+    "effect": "Unknown",
+    "start_position": 40850.0,
+    "end_position": 40899.9
+  },
+  {
+    "region": 818,
+    "effect": "Unknown",
+    "start_position": 40900.0,
+    "end_position": 40949.9
+  },
+  {
+    "region": 819,
+    "effect": "Unknown",
+    "start_position": 40950.0,
+    "end_position": 40999.9
+  },
+  {
+    "region": 820,
+    "effect": "Unknown",
+    "start_position": 41000.0,
+    "end_position": 41049.9
+  },
+  {
+    "region": 821,
+    "effect": "Unknown",
+    "start_position": 41050.0,
+    "end_position": 41099.9
+  },
+  {
+    "region": 822,
+    "effect": "Unknown",
+    "start_position": 41100.0,
+    "end_position": 41149.9
+  },
+  {
+    "region": 823,
+    "effect": "Unknown",
+    "start_position": 41150.0,
+    "end_position": 41199.9
+  },
+  {
+    "region": 824,
+    "effect": "Unknown",
+    "start_position": 41200.0,
+    "end_position": 41249.9
+  },
+  {
+    "region": 825,
+    "effect": "Unknown",
+    "start_position": 41250.0,
+    "end_position": 41299.9
+  },
+  {
+    "region": 826,
+    "effect": "Unknown",
+    "start_position": 41300.0,
+    "end_position": 41349.9
+  },
+  {
+    "region": 827,
+    "effect": "Unknown",
+    "start_position": 41350.0,
+    "end_position": 41399.9
+  },
+  {
+    "region": 828,
+    "effect": "Unknown",
+    "start_position": 41400.0,
+    "end_position": 41449.9
+  },
+  {
+    "region": 829,
+    "effect": "Unknown",
+    "start_position": 41450.0,
+    "end_position": 41499.9
+  },
+  {
+    "region": 830,
+    "effect": "Unknown",
+    "start_position": 41500.0,
+    "end_position": 41549.9
+  },
+  {
+    "region": 831,
+    "effect": "Unknown",
+    "start_position": 41550.0,
+    "end_position": 41599.9
+  },
+  {
+    "region": 832,
+    "effect": "Unknown",
+    "start_position": 41600.0,
+    "end_position": 41649.9
+  },
+  {
+    "region": 833,
+    "effect": "Unknown",
+    "start_position": 41650.0,
+    "end_position": 41699.9
+  },
+  {
+    "region": 834,
+    "effect": "Unknown",
+    "start_position": 41700.0,
+    "end_position": 41749.9
+  },
+  {
+    "region": 835,
+    "effect": "Unknown",
+    "start_position": 41750.0,
+    "end_position": 41799.9
+  },
+  {
+    "region": 836,
+    "effect": "Unknown",
+    "start_position": 41800.0,
+    "end_position": 41849.9
+  },
+  {
+    "region": 837,
+    "effect": "Unknown",
+    "start_position": 41850.0,
+    "end_position": 41899.9
+  },
+  {
+    "region": 838,
+    "effect": "Unknown",
+    "start_position": 41900.0,
+    "end_position": 41949.9
+  },
+  {
+    "region": 839,
+    "effect": "Unknown",
+    "start_position": 41950.0,
+    "end_position": 41999.9
+  },
+  {
+    "region": 840,
+    "effect": "Unknown",
+    "start_position": 42000.0,
+    "end_position": 42049.9
+  },
+  {
+    "region": 841,
+    "effect": "Unknown",
+    "start_position": 42050.0,
+    "end_position": 42099.9
+  },
+  {
+    "region": 842,
+    "effect": "Unknown",
+    "start_position": 42100.0,
+    "end_position": 42149.9
+  },
+  {
+    "region": 843,
+    "effect": "Unknown",
+    "start_position": 42150.0,
+    "end_position": 42199.9
+  },
+  {
+    "region": 844,
+    "effect": "Unknown",
+    "start_position": 42200.0,
+    "end_position": 42249.9
+  },
+  {
+    "region": 845,
+    "effect": "Unknown",
+    "start_position": 42250.0,
+    "end_position": 42299.9
+  },
+  {
+    "region": 846,
+    "effect": "Unknown",
+    "start_position": 42300.0,
+    "end_position": 42349.9
+  },
+  {
+    "region": 847,
+    "effect": "Unknown",
+    "start_position": 42350.0,
+    "end_position": 42399.9
+  },
+  {
+    "region": 848,
+    "effect": "Unknown",
+    "start_position": 42400.0,
+    "end_position": 42449.9
+  },
+  {
+    "region": 849,
+    "effect": "Unknown",
+    "start_position": 42450.0,
+    "end_position": 42499.9
+  },
+  {
+    "region": 850,
+    "effect": "Unknown",
+    "start_position": 42500.0,
+    "end_position": 42549.9
+  },
+  {
+    "region": 851,
+    "effect": "Unknown",
+    "start_position": 42550.0,
+    "end_position": 42599.9
+  },
+  {
+    "region": 852,
+    "effect": "Unknown",
+    "start_position": 42600.0,
+    "end_position": 42649.9
+  },
+  {
+    "region": 853,
+    "effect": "Unknown",
+    "start_position": 42650.0,
+    "end_position": 42699.9
+  },
+  {
+    "region": 854,
+    "effect": "Unknown",
+    "start_position": 42700.0,
+    "end_position": 42749.9
+  },
+  {
+    "region": 855,
+    "effect": "Unknown",
+    "start_position": 42750.0,
+    "end_position": 42799.9
+  },
+  {
+    "region": 856,
+    "effect": "Unknown",
+    "start_position": 42800.0,
+    "end_position": 42849.9
+  },
+  {
+    "region": 857,
+    "effect": "Unknown",
+    "start_position": 42850.0,
+    "end_position": 42899.9
+  },
+  {
+    "region": 858,
+    "effect": "Unknown",
+    "start_position": 42900.0,
+    "end_position": 42949.9
+  },
+  {
+    "region": 859,
+    "effect": "Unknown",
+    "start_position": 42950.0,
+    "end_position": 42999.9
+  },
+  {
+    "region": 860,
+    "effect": "Unknown",
+    "start_position": 43000.0,
+    "end_position": 43049.9
+  },
+  {
+    "region": 861,
+    "effect": "Unknown",
+    "start_position": 43050.0,
+    "end_position": 43099.9
+  },
+  {
+    "region": 862,
+    "effect": "Unknown",
+    "start_position": 43100.0,
+    "end_position": 43149.9
+  },
+  {
+    "region": 863,
+    "effect": "Unknown",
+    "start_position": 43150.0,
+    "end_position": 43199.9
+  },
+  {
+    "region": 864,
+    "effect": "Unknown",
+    "start_position": 43200.0,
+    "end_position": 43249.9
+  },
+  {
+    "region": 865,
+    "effect": "Unknown",
+    "start_position": 43250.0,
+    "end_position": 43299.9
+  },
+  {
+    "region": 866,
+    "effect": "Unknown",
+    "start_position": 43300.0,
+    "end_position": 43349.9
+  },
+  {
+    "region": 867,
+    "effect": "Unknown",
+    "start_position": 43350.0,
+    "end_position": 43399.9
+  },
+  {
+    "region": 868,
+    "effect": "Unknown",
+    "start_position": 43400.0,
+    "end_position": 43449.9
+  },
+  {
+    "region": 869,
+    "effect": "Unknown",
+    "start_position": 43450.0,
+    "end_position": 43499.9
+  },
+  {
+    "region": 870,
+    "effect": "Unknown",
+    "start_position": 43500.0,
+    "end_position": 43549.9
+  },
+  {
+    "region": 871,
+    "effect": "Unknown",
+    "start_position": 43550.0,
+    "end_position": 43599.9
+  },
+  {
+    "region": 872,
+    "effect": "Unknown",
+    "start_position": 43600.0,
+    "end_position": 43649.9
+  },
+  {
+    "region": 873,
+    "effect": "Unknown",
+    "start_position": 43650.0,
+    "end_position": 43699.9
+  },
+  {
+    "region": 874,
+    "effect": "Unknown",
+    "start_position": 43700.0,
+    "end_position": 43749.9
+  },
+  {
+    "region": 875,
+    "effect": "Unknown",
+    "start_position": 43750.0,
+    "end_position": 43799.9
+  },
+  {
+    "region": 876,
+    "effect": "Unknown",
+    "start_position": 43800.0,
+    "end_position": 43849.9
+  },
+  {
+    "region": 877,
+    "effect": "Unknown",
+    "start_position": 43850.0,
+    "end_position": 43899.9
+  },
+  {
+    "region": 878,
+    "effect": "Unknown",
+    "start_position": 43900.0,
+    "end_position": 43949.9
+  },
+  {
+    "region": 879,
+    "effect": "Unknown",
+    "start_position": 43950.0,
+    "end_position": 43999.9
+  },
+  {
+    "region": 880,
+    "effect": "Unknown",
+    "start_position": 44000.0,
+    "end_position": 44049.9
+  },
+  {
+    "region": 881,
+    "effect": "Unknown",
+    "start_position": 44050.0,
+    "end_position": 44099.9
+  },
+  {
+    "region": 882,
+    "effect": "Unknown",
+    "start_position": 44100.0,
+    "end_position": 44149.9
+  },
+  {
+    "region": 883,
+    "effect": "Unknown",
+    "start_position": 44150.0,
+    "end_position": 44199.9
+  },
+  {
+    "region": 884,
+    "effect": "Unknown",
+    "start_position": 44200.0,
+    "end_position": 44249.9
+  },
+  {
+    "region": 885,
+    "effect": "Unknown",
+    "start_position": 44250.0,
+    "end_position": 44299.9
+  },
+  {
+    "region": 886,
+    "effect": "Unknown",
+    "start_position": 44300.0,
+    "end_position": 44349.9
+  },
+  {
+    "region": 887,
+    "effect": "Unknown",
+    "start_position": 44350.0,
+    "end_position": 44399.9
+  },
+  {
+    "region": 888,
+    "effect": "Unknown",
+    "start_position": 44400.0,
+    "end_position": 44449.9
+  },
+  {
+    "region": 889,
+    "effect": "Unknown",
+    "start_position": 44450.0,
+    "end_position": 44499.9
+  },
+  {
+    "region": 890,
+    "effect": "Unknown",
+    "start_position": 44500.0,
+    "end_position": 44549.9
+  },
+  {
+    "region": 891,
+    "effect": "Unknown",
+    "start_position": 44550.0,
+    "end_position": 44599.9
+  },
+  {
+    "region": 892,
+    "effect": "Unknown",
+    "start_position": 44600.0,
+    "end_position": 44649.9
+  },
+  {
+    "region": 893,
+    "effect": "Unknown",
+    "start_position": 44650.0,
+    "end_position": 44699.9
+  },
+  {
+    "region": 894,
+    "effect": "Unknown",
+    "start_position": 44700.0,
+    "end_position": 44749.9
+  },
+  {
+    "region": 895,
+    "effect": "Unknown",
+    "start_position": 44750.0,
+    "end_position": 44799.9
+  },
+  {
+    "region": 896,
+    "effect": "Unknown",
+    "start_position": 44800.0,
+    "end_position": 44849.9
+  },
+  {
+    "region": 897,
+    "effect": "Unknown",
+    "start_position": 44850.0,
+    "end_position": 44899.9
+  },
+  {
+    "region": 898,
+    "effect": "Unknown",
+    "start_position": 44900.0,
+    "end_position": 44949.9
+  },
+  {
+    "region": 899,
+    "effect": "Unknown",
+    "start_position": 44950.0,
+    "end_position": 44999.9
+  },
+  {
+    "region": 900,
+    "effect": "Unknown",
+    "start_position": 45000.0,
+    "end_position": 45049.9
+  },
+  {
+    "region": 901,
+    "effect": "Unknown",
+    "start_position": 45050.0,
+    "end_position": 45099.9
+  },
+  {
+    "region": 902,
+    "effect": "Unknown",
+    "start_position": 45100.0,
+    "end_position": 45149.9
+  },
+  {
+    "region": 903,
+    "effect": "Unknown",
+    "start_position": 45150.0,
+    "end_position": 45199.9
+  },
+  {
+    "region": 904,
+    "effect": "Unknown",
+    "start_position": 45200.0,
+    "end_position": 45249.9
+  },
+  {
+    "region": 905,
+    "effect": "Unknown",
+    "start_position": 45250.0,
+    "end_position": 45299.9
+  },
+  {
+    "region": 906,
+    "effect": "Unknown",
+    "start_position": 45300.0,
+    "end_position": 45349.9
+  },
+  {
+    "region": 907,
+    "effect": "Unknown",
+    "start_position": 45350.0,
+    "end_position": 45399.9
+  },
+  {
+    "region": 908,
+    "effect": "Unknown",
+    "start_position": 45400.0,
+    "end_position": 45449.9
+  },
+  {
+    "region": 909,
+    "effect": "Unknown",
+    "start_position": 45450.0,
+    "end_position": 45499.9
+  },
+  {
+    "region": 910,
+    "effect": "Unknown",
+    "start_position": 45500.0,
+    "end_position": 45549.9
+  },
+  {
+    "region": 911,
+    "effect": "Unknown",
+    "start_position": 45550.0,
+    "end_position": 45599.9
+  },
+  {
+    "region": 912,
+    "effect": "Unknown",
+    "start_position": 45600.0,
+    "end_position": 45649.9
+  },
+  {
+    "region": 913,
+    "effect": "Unknown",
+    "start_position": 45650.0,
+    "end_position": 45699.9
+  },
+  {
+    "region": 914,
+    "effect": "Unknown",
+    "start_position": 45700.0,
+    "end_position": 45749.9
+  },
+  {
+    "region": 915,
+    "effect": "Unknown",
+    "start_position": 45750.0,
+    "end_position": 45799.9
+  },
+  {
+    "region": 916,
+    "effect": "Unknown",
+    "start_position": 45800.0,
+    "end_position": 45849.9
+  },
+  {
+    "region": 917,
+    "effect": "Unknown",
+    "start_position": 45850.0,
+    "end_position": 45899.9
+  },
+  {
+    "region": 918,
+    "effect": "Unknown",
+    "start_position": 45900.0,
+    "end_position": 45949.9
+  },
+  {
+    "region": 919,
+    "effect": "Unknown",
+    "start_position": 45950.0,
+    "end_position": 45999.9
+  },
+  {
+    "region": 920,
+    "effect": "Unknown",
+    "start_position": 46000.0,
+    "end_position": 46049.9
+  },
+  {
+    "region": 921,
+    "effect": "Unknown",
+    "start_position": 46050.0,
+    "end_position": 46099.9
+  },
+  {
+    "region": 922,
+    "effect": "Unknown",
+    "start_position": 46100.0,
+    "end_position": 46149.9
+  },
+  {
+    "region": 923,
+    "effect": "Unknown",
+    "start_position": 46150.0,
+    "end_position": 46199.9
+  },
+  {
+    "region": 924,
+    "effect": "Unknown",
+    "start_position": 46200.0,
+    "end_position": 46249.9
+  },
+  {
+    "region": 925,
+    "effect": "Unknown",
+    "start_position": 46250.0,
+    "end_position": 46299.9
+  },
+  {
+    "region": 926,
+    "effect": "Unknown",
+    "start_position": 46300.0,
+    "end_position": 46349.9
+  },
+  {
+    "region": 927,
+    "effect": "Unknown",
+    "start_position": 46350.0,
+    "end_position": 46399.9
+  },
+  {
+    "region": 928,
+    "effect": "Unknown",
+    "start_position": 46400.0,
+    "end_position": 46449.9
+  },
+  {
+    "region": 929,
+    "effect": "Unknown",
+    "start_position": 46450.0,
+    "end_position": 46499.9
+  },
+  {
+    "region": 930,
+    "effect": "Unknown",
+    "start_position": 46500.0,
+    "end_position": 46549.9
+  },
+  {
+    "region": 931,
+    "effect": "Unknown",
+    "start_position": 46550.0,
+    "end_position": 46599.9
+  },
+  {
+    "region": 932,
+    "effect": "Unknown",
+    "start_position": 46600.0,
+    "end_position": 46649.9
+  },
+  {
+    "region": 933,
+    "effect": "Unknown",
+    "start_position": 46650.0,
+    "end_position": 46699.9
+  },
+  {
+    "region": 934,
+    "effect": "Unknown",
+    "start_position": 46700.0,
+    "end_position": 46749.9
+  },
+  {
+    "region": 935,
+    "effect": "Unknown",
+    "start_position": 46750.0,
+    "end_position": 46799.9
+  },
+  {
+    "region": 936,
+    "effect": "Unknown",
+    "start_position": 46800.0,
+    "end_position": 46849.9
+  },
+  {
+    "region": 937,
+    "effect": "Unknown",
+    "start_position": 46850.0,
+    "end_position": 46899.9
+  },
+  {
+    "region": 938,
+    "effect": "Unknown",
+    "start_position": 46900.0,
+    "end_position": 46949.9
+  },
+  {
+    "region": 939,
+    "effect": "Unknown",
+    "start_position": 46950.0,
+    "end_position": 46999.9
+  },
+  {
+    "region": 940,
+    "effect": "Unknown",
+    "start_position": 47000.0,
+    "end_position": 47049.9
+  },
+  {
+    "region": 941,
+    "effect": "Unknown",
+    "start_position": 47050.0,
+    "end_position": 47099.9
+  },
+  {
+    "region": 942,
+    "effect": "Unknown",
+    "start_position": 47100.0,
+    "end_position": 47149.9
+  },
+  {
+    "region": 943,
+    "effect": "Unknown",
+    "start_position": 47150.0,
+    "end_position": 47199.9
+  },
+  {
+    "region": 944,
+    "effect": "Unknown",
+    "start_position": 47200.0,
+    "end_position": 47249.9
+  },
+  {
+    "region": 945,
+    "effect": "Unknown",
+    "start_position": 47250.0,
+    "end_position": 47299.9
+  },
+  {
+    "region": 946,
+    "effect": "Unknown",
+    "start_position": 47300.0,
+    "end_position": 47349.9
+  },
+  {
+    "region": 947,
+    "effect": "Unknown",
+    "start_position": 47350.0,
+    "end_position": 47399.9
+  },
+  {
+    "region": 948,
+    "effect": "Unknown",
+    "start_position": 47400.0,
+    "end_position": 47449.9
+  },
+  {
+    "region": 949,
+    "effect": "Unknown",
+    "start_position": 47450.0,
+    "end_position": 47499.9
+  },
+  {
+    "region": 950,
+    "effect": "Unknown",
+    "start_position": 47500.0,
+    "end_position": 47549.9
+  },
+  {
+    "region": 951,
+    "effect": "Unknown",
+    "start_position": 47550.0,
+    "end_position": 47599.9
+  },
+  {
+    "region": 952,
+    "effect": "Unknown",
+    "start_position": 47600.0,
+    "end_position": 47649.9
+  },
+  {
+    "region": 953,
+    "effect": "Unknown",
+    "start_position": 47650.0,
+    "end_position": 47699.9
+  },
+  {
+    "region": 954,
+    "effect": "Unknown",
+    "start_position": 47700.0,
+    "end_position": 47749.9
+  },
+  {
+    "region": 955,
+    "effect": "Unknown",
+    "start_position": 47750.0,
+    "end_position": 47799.9
+  },
+  {
+    "region": 956,
+    "effect": "Unknown",
+    "start_position": 47800.0,
+    "end_position": 47849.9
+  },
+  {
+    "region": 957,
+    "effect": "Unknown",
+    "start_position": 47850.0,
+    "end_position": 47899.9
+  },
+  {
+    "region": 958,
+    "effect": "Unknown",
+    "start_position": 47900.0,
+    "end_position": 47949.9
+  },
+  {
+    "region": 959,
+    "effect": "Unknown",
+    "start_position": 47950.0,
+    "end_position": 47999.9
+  },
+  {
+    "region": 960,
+    "effect": "Unknown",
+    "start_position": 48000.0,
+    "end_position": 48049.9
+  },
+  {
+    "region": 961,
+    "effect": "Unknown",
+    "start_position": 48050.0,
+    "end_position": 48099.9
+  },
+  {
+    "region": 962,
+    "effect": "Unknown",
+    "start_position": 48100.0,
+    "end_position": 48149.9
+  },
+  {
+    "region": 963,
+    "effect": "Unknown",
+    "start_position": 48150.0,
+    "end_position": 48199.9
+  },
+  {
+    "region": 964,
+    "effect": "Unknown",
+    "start_position": 48200.0,
+    "end_position": 48249.9
+  },
+  {
+    "region": 965,
+    "effect": "Unknown",
+    "start_position": 48250.0,
+    "end_position": 48299.9
+  },
+  {
+    "region": 966,
+    "effect": "Unknown",
+    "start_position": 48300.0,
+    "end_position": 48349.9
+  },
+  {
+    "region": 967,
+    "effect": "Unknown",
+    "start_position": 48350.0,
+    "end_position": 48399.9
+  },
+  {
+    "region": 968,
+    "effect": "Unknown",
+    "start_position": 48400.0,
+    "end_position": 48449.9
+  },
+  {
+    "region": 969,
+    "effect": "Unknown",
+    "start_position": 48450.0,
+    "end_position": 48499.9
+  },
+  {
+    "region": 970,
+    "effect": "Unknown",
+    "start_position": 48500.0,
+    "end_position": 48549.9
+  },
+  {
+    "region": 971,
+    "effect": "Unknown",
+    "start_position": 48550.0,
+    "end_position": 48599.9
+  },
+  {
+    "region": 972,
+    "effect": "Unknown",
+    "start_position": 48600.0,
+    "end_position": 48649.9
+  },
+  {
+    "region": 973,
+    "effect": "Unknown",
+    "start_position": 48650.0,
+    "end_position": 48699.9
+  },
+  {
+    "region": 974,
+    "effect": "Unknown",
+    "start_position": 48700.0,
+    "end_position": 48749.9
+  },
+  {
+    "region": 975,
+    "effect": "Unknown",
+    "start_position": 48750.0,
+    "end_position": 48799.9
+  },
+  {
+    "region": 976,
+    "effect": "Unknown",
+    "start_position": 48800.0,
+    "end_position": 48849.9
+  },
+  {
+    "region": 977,
+    "effect": "Unknown",
+    "start_position": 48850.0,
+    "end_position": 48899.9
+  },
+  {
+    "region": 978,
+    "effect": "Risky Business",
+    "start_position": 48900.0,
+    "end_position": 48949.9
+  },
+  {
+    "region": 979,
+    "effect": "Affable",
+    "start_position": 48950.0,
+    "end_position": 48999.9
+  },
+  {
+    "region": 980,
+    "effect": "Static",
+    "start_position": 49000.0,
+    "end_position": 49049.9
+  },
+  {
+    "region": 981,
+    "effect": "Super Highway",
+    "start_position": 49050.0,
+    "end_position": 49099.9
+  },
+  {
+    "region": 982,
+    "effect": "Ion Charge",
+    "start_position": 49100.0,
+    "end_position": 49149.9
+  },
+  {
+    "region": 983,
+    "effect": "Stellar Drift",
+    "start_position": 49150.0,
+    "end_position": 49199.9
+  },
+  {
+    "region": 984,
+    "effect": "Unknown",
+    "start_position": 49200.0,
+    "end_position": 49249.9
+  },
+  {
+    "region": 985,
+    "effect": "Weaponless",
+    "start_position": 49250.0,
+    "end_position": 49299.9
+  },
+  {
+    "region": 986,
+    "effect": "Erased",
+    "start_position": 49300.0,
+    "end_position": 49349.9
+  },
+  {
+    "region": 987,
+    "effect": "Affable",
+    "start_position": 49350.0,
+    "end_position": 49399.9
+  },
+  {
+    "region": 988,
+    "effect": "Super Highway",
+    "start_position": 49400.0,
+    "end_position": 49449.9
+  },
+  {
+    "region": 989,
+    "effect": "Unknown",
+    "start_position": 49450.0,
+    "end_position": 49499.9
+  },
+  {
+    "region": 990,
+    "effect": "Gastro",
+    "start_position": 49500.0,
+    "end_position": 49549.9
+  },
+  {
+    "region": 991,
+    "effect": "Synthesis",
+    "start_position": 49550.0,
+    "end_position": 49599.9
+  },
+  {
+    "region": 992,
+    "effect": "Fuel Drain",
+    "start_position": 49600.0,
+    "end_position": 49649.9
+  },
+  {
+    "region": 993,
+    "effect": "Data Mining",
+    "start_position": 49650.0,
+    "end_position": 49699.9
+  },
+  {
+    "region": 994,
+    "effect": "Mining Efforts",
+    "start_position": 49700.0,
+    "end_position": 49749.9
+  },
+  {
+    "region": 995,
+    "effect": "Nanite Nest",
+    "start_position": 49750.0,
+    "end_position": 49799.9
+  },
+  {
+    "region": 996,
+    "effect": "Null Space Decay",
+    "start_position": 49800.0,
+    "end_position": 49849.9
+  },
+  {
+    "region": 997,
+    "effect": "Neurogenic",
+    "start_position": 49850.0,
+    "end_position": 49899.9
+  },
+  {
+    "region": 998,
+    "effect": "Unknown",
+    "start_position": 49900.0,
+    "end_position": 49949.9
+  },
+  {
+    "region": 999,
+    "effect": "Artisan",
+    "start_position": 49950.0,
+    "end_position": 49999.9
+  },
+  {
+    "region": 1000,
+    "effect": "Movers",
+    "start_position": 50000.0,
+    "end_position": 50049.9
+  },
+  {
+    "region": 1001,
+    "effect": "Botanical",
+    "start_position": 50050.0,
+    "end_position": 50099.9
+  },
+  {
+    "region": 1002,
+    "effect": "Stellar Thrust",
+    "start_position": 50100.0,
+    "end_position": 50149.9
+  },
+  {
+    "region": 1003,
+    "effect": "Game Reserve",
+    "start_position": 50150.0,
+    "end_position": 50199.9
+  },
+  {
+    "region": 1004,
+    "effect": "Artisan",
+    "start_position": 50200.0,
+    "end_position": 50249.9
+  },
+  {
+    "region": 1005,
+    "effect": "Affable",
+    "start_position": 50250.0,
+    "end_position": 50299.9
+  },
+  {
+    "region": 1006,
+    "effect": "Unknown",
+    "start_position": 50300.0,
+    "end_position": 50349.9
+  },
+  {
+    "region": 1007,
+    "effect": "Unknown",
+    "start_position": 50350.0,
+    "end_position": 50399.9
+  },
+  {
+    "region": 1008,
+    "effect": "Unknown",
+    "start_position": 50400.0,
+    "end_position": 50449.9
+  },
+  {
+    "region": 1009,
+    "effect": "Unknown",
+    "start_position": 50450.0,
+    "end_position": 50499.9
+  },
+  {
+    "region": 1010,
+    "effect": "Unknown",
+    "start_position": 50500.0,
+    "end_position": 50549.9
+  },
+  {
+    "region": 1011,
+    "effect": "Unknown",
+    "start_position": 50550.0,
+    "end_position": 50599.9
+  },
+  {
+    "region": 1012,
+    "effect": "Unknown",
+    "start_position": 50600.0,
+    "end_position": 50649.9
+  },
+  {
+    "region": 1013,
+    "effect": "Unknown",
+    "start_position": 50650.0,
+    "end_position": 50699.9
+  },
+  {
+    "region": 1014,
+    "effect": "Unknown",
+    "start_position": 50700.0,
+    "end_position": 50749.9
+  },
+  {
+    "region": 1015,
+    "effect": "Unknown",
+    "start_position": 50750.0,
+    "end_position": 50799.9
+  },
+  {
+    "region": 1016,
+    "effect": "Unknown",
+    "start_position": 50800.0,
+    "end_position": 50849.9
+  },
+  {
+    "region": 1017,
+    "effect": "Unknown",
+    "start_position": 50850.0,
+    "end_position": 50899.9
+  },
+  {
+    "region": 1018,
+    "effect": "Unknown",
+    "start_position": 50900.0,
+    "end_position": 50949.9
+  },
+  {
+    "region": 1019,
+    "effect": "Unknown",
+    "start_position": 50950.0,
+    "end_position": 50999.9
+  },
+  {
+    "region": 1020,
+    "effect": "Unknown",
+    "start_position": 51000.0,
+    "end_position": 51049.9
+  },
+  {
+    "region": 1021,
+    "effect": "Unknown",
+    "start_position": 51050.0,
+    "end_position": 51099.9
+  },
+  {
+    "region": 1022,
+    "effect": "Surplus Runoff",
+    "start_position": 51100.0,
+    "end_position": 51149.9
+  },
+  {
+    "region": 1023,
+    "effect": "Engine Fatigue",
+    "start_position": 51150.0,
+    "end_position": 51199.9
+  },
+  {
+    "region": 1024,
+    "effect": "Unknown",
+    "start_position": 51200.0,
+    "end_position": 51249.9
+  },
+  {
+    "region": 1025,
+    "effect": "Unknown",
+    "start_position": 51250.0,
+    "end_position": 51299.9
+  },
+  {
+    "region": 1026,
+    "effect": "Unknown",
+    "start_position": 51300.0,
+    "end_position": 51349.9
+  },
+  {
+    "region": 1027,
+    "effect": "Unknown",
+    "start_position": 51350.0,
+    "end_position": 51399.9
+  },
+  {
+    "region": 1028,
+    "effect": "Unknown",
+    "start_position": 51400.0,
+    "end_position": 51449.9
+  },
+  {
+    "region": 1029,
+    "effect": "Unknown",
+    "start_position": 51450.0,
+    "end_position": 51499.9
+  },
+  {
+    "region": 1030,
+    "effect": "Unknown",
+    "start_position": 51500.0,
+    "end_position": 51549.9
+  },
+  {
+    "region": 1031,
+    "effect": "Unknown",
+    "start_position": 51550.0,
+    "end_position": 51599.9
+  },
+  {
+    "region": 1032,
+    "effect": "Unknown",
+    "start_position": 51600.0,
+    "end_position": 51649.9
+  },
+  {
+    "region": 1033,
+    "effect": "Unknown",
+    "start_position": 51650.0,
+    "end_position": 51699.9
+  },
+  {
+    "region": 1034,
+    "effect": "Unknown",
+    "start_position": 51700.0,
+    "end_position": 51749.9
+  },
+  {
+    "region": 1035,
+    "effect": "Unknown",
+    "start_position": 51750.0,
+    "end_position": 51799.9
+  },
+  {
+    "region": 1036,
+    "effect": "Unknown",
+    "start_position": 51800.0,
+    "end_position": 51849.9
+  },
+  {
+    "region": 1037,
+    "effect": "Unknown",
+    "start_position": 51850.0,
+    "end_position": 51899.9
+  },
+  {
+    "region": 1038,
+    "effect": "Unknown",
+    "start_position": 51900.0,
+    "end_position": 51949.9
+  },
+  {
+    "region": 1039,
+    "effect": "Unknown",
+    "start_position": 51950.0,
+    "end_position": 51999.9
+  },
+  {
+    "region": 1040,
+    "effect": "Unknown",
+    "start_position": 52000.0,
+    "end_position": 52049.9
+  }
+]

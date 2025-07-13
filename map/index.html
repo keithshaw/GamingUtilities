@@ -1,0 +1,41 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+<div id="filterBar" class="filter-bar">
+	<label>
+  Mode:
+  <select id="filterMode">
+    <option value="or">Match ANY</option>
+    <option value="and">Match ALL</option>
+  </select>
+</label>
+
+  <button id="toggleUnknown">Toggle Unknown</button>
+
+  <label><input type="checkbox" id="toggleWormholes"> Wormholes</label>
+  <label><input type="checkbox" id="toggleUnstable"> Unstable WH</label>
+  <label><input type="checkbox" id="toggleFilaments"> Filaments</label>
+  <label><input type="checkbox" id="toggleUncharted5"> 5+ Uncharted</label>
+  <label><input type="checkbox" id="toggleAnyUncharted"> Any Uncharted</label>
+  <label><input type="checkbox" id="toggleServices"> Services</label>
+
+  <div id="regionStats" class="region-stats"></div>
+</div>
+
+  <div id="regionScrollMap"></div>
+
+
+<main id="regionContainer"></main>
+<div id="systemResults" style="display: none;"></div>
+
+
+  <!-- Optional floating detail panel -->
+  <div id="detailPanel"></div>
+
+  <script src="script.js"></script>
+</body>
+</html>

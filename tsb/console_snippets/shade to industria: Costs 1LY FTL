@@ -1,0 +1,86 @@
+shade to industria: Costs 1LY FTL
+action/ftl/?system_id=602
+action/ftl/?system_id=600
+action/ftl/?system_id=2314 //industria
+(async () => {
+   res = await apiRequest("POST", "action/ftl/?system_id=602", true);
+     console.log(res.success);
+   res = await apiRequest("POST", "action/ftl/?system_id=600", true);
+     console.log(res.success);
+   res = await apiRequest("POST", "action/ftl/?system_id=2314", true);
+     console.log(res.success);
+})();
+
+    
+
+
+industria to shade: Costs 1LY FTL
+action/ftl/?system_id=600
+action/ftl/?system_id=602
+3940
+(async () => {
+   res = await apiRequest("POST", "action/ftl/?system_id=600", true);
+     console.log(res.success);
+   res = await apiRequest("POST", "action/ftl/?system_id=602", true);
+     console.log(res.success);
+   res = await apiRequest("POST", "action/ftl/?system_id=3940", true);
+     console.log(res.success);
+})();
+
+Calcul to industria
+action/ftl/?system_id=3701
+action/ftl/?system_id=3700
+action/ftl/?system_id=2403 //port royal
+action/ftl/?system_id=2401 //andoriana
+
+action/ftl/?system_id=3701
+
+
+   res = await apiRequest("POST", "action/ftl/?system_id=3232", true); //sirens
+Industria to far reach 
+(async () => {
+   res = await apiRequest("POST", "action/ftl/?system_id=600", true); //falling rocks
+     console.log(res.success);
+   res = await apiRequest("POST", "action/ftl/?system_id=602", true); //balo martim
+     console.log(res.success);
+   res = await apiRequest("POST", "action/ftl/?system_id=3940", true); //shade
+     console.log(res.success);
+   res = await apiRequest("POST", "action/ftl/?system_id=307", true); //tesh
+     console.log(res.success);
+   res = await apiRequest("POST", "action/ftl/?system_id=309", true); //coroscar
+     console.log(res.success);     
+   res = await apiRequest("POST", "action/ftl/?system_id=3632", true); //kill space
+     console.log(res.success);  
+   res = await apiRequest("POST", "action/ftl/?system_id=2388", true); //marketplace
+     console.log(res.success);
+   res = await apiRequest("POST", "action/ftl/?system_id=3227", true); //farreach
+     console.log(res.success);
+})();
+
+//far to shade
+(async () => {
+   res = await apiRequest("POST", "action/ftl/?system_id=2388", true); //marketplace
+     console.log(res.success);
+        res = await apiRequest("POST", "action/ftl/?system_id=3632", true); //kill space
+     console.log(res.success);  
+        res = await apiRequest("POST", "action/ftl/?system_id=309", true); //coroscar
+     console.log(res.success);     
+        res = await apiRequest("POST", "action/ftl/?system_id=307", true); //tesh
+     console.log(res.success);
+        res = await apiRequest("POST", "action/ftl/?system_id=3940", true); //shade
+     console.log(res.success);
+})();
+
+//shade to far
+(async () => {
+   res = await apiRequest("POST", "action/ftl/?system_id=307", true); //tesh
+     console.log(res.success);
+   res = await apiRequest("POST", "action/ftl/?system_id=309", true); //coroscar
+     console.log(res.success);     
+   res = await apiRequest("POST", "action/ftl/?system_id=3632", true); //kill space
+     console.log(res.success);  
+   res = await apiRequest("POST", "action/ftl/?system_id=2388", true); //marketplace
+     console.log(res.success);
+   res = await apiRequest("POST", "action/ftl/?system_id=3227", true); //farreach
+     console.log(res.success);
+})();

@@ -1,0 +1,64 @@
+async function undockAllShips() {
+  const delay = (ms) => new Promise(r => setTimeout(r, ms));
+
+  // Go to Tactical > Docked Ships
+  const menu = document.querySelector('#menuMobileSelect');
+  if (menu) {
+    menu.value = "#tactical";
+    menu.dispatchEvent(new Event('change'));
+    await delay(1500);
+  }
+
+  const dockedTab = document.querySelector('[data-key="tactical_docked_ships"]');
+  if (dockedTab) {
+    dockedTab.click();
+    await delay(1500);
+  }
+
+  while (true) {
+    const rows = [...document.querySelectorAll('#tactical_docked_ships tbody tr')];
+    if (rows.length === 0) break;
+
+    let undockedThisRound = false;
+
+    for (const row of rows) {
+      const name = row.querySelector('td a')?.textContent || 'Unknown Ship';
+      const menuBtn = row.querySelector('.overflow-menu');
+      if (!menuBtn) continue;
+
+      menuBtn.click();
+      await delay(1600);
+
+      const undockBtn = [...document.querySelectorAll('#floatingmenu a')].find(a => a.textContent.trim() === 'Undock');
+      if (!undockBtn) {
+        console.warn(`❌ No Undock for ${name}`);
+        continue;
+      }
+
+      undockBtn.click();
+      await delay(1600);
+
+      let confirmBtn = null;
+      for (let i = 0; i < 30; i++) {
+        confirmBtn = document.querySelector('#confirmation-confirm-button.confirm-undock-ship');
+        if (confirmBtn && !confirmBtn.disabled) break;
+        await delay(1600);
+      }
+
+      if (confirmBtn) {
+        confirmBtn.click();
+        console.log(`🚀 Undocked: ${name}`);
+        undockedThisRound = true;
+      } else {
+        console.warn(`⚠️ Confirm failed for ${name}`);
+      }
+
+      await delay(1000);
+    }
+
+    if (!undockedThisRound) break; // avoid infinite loop if nothing undocked
+    await delay(2000); // allow table to update
+  }
+
+  console.log('✅ All docked ships have been undocked.');
+}

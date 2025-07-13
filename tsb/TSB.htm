@@ -1,0 +1,494 @@
+<!DOCTYPE html>
+<!-- saved from url=(0031)http://192.168.254.14:8000/tsb/ -->
+<html lang="en"><head><meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+  
+  <link rel="icon" href="http://192.168.254.14:8000/tsb/favicon.svg" type="image/svg+xml">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>TSB</title>
+  <link rel="stylesheet" href="./TSB_files/style.css">
+</head>
+<body>
+	<div id="configBar">
+	  <label for="apiSelector">Account:</label>
+	  <select id="apiSelector"><option value="402667ee0b9153dee">Nightmare</option><option value="40806804580005b86">First</option></select>
+
+<div id="moduleManager">
+  <strong>Modules:</strong>
+
+  <div class="module-group collapsed">
+    <strong>Mission:</strong><br>
+    <label><input type="checkbox" data-module="decrypt"> Decrypt</label>
+    <label><input type="checkbox" data-module="mission_secretSauce"> Secret Sauce</label>
+    <label><input type="checkbox" data-module="butcher"> Butcher</label>
+    <label><input type="checkbox" data-module="trafficker"> Trafficker</label>
+    <label><input type="checkbox" data-module="collectionPlate"> Collection Plate</label>
+<label><input type="checkbox" data-module="mission_speedSquad"> Speed/Squad</label>
+
+  </div>
+
+  <div class="module-group collapsed">
+    <strong>Utility:</strong><br>
+    <label><input type="checkbox" data-module="harvest_escape"> Pod Harvester</label>
+    <label><input type="checkbox" data-module="account_manager"> Accounts </label>
+    <label><input type="checkbox" data-module="chart"> Chart</label>
+    <label><input type="checkbox" data-module="navigation"> Navigation</label>
+    <label><input type="checkbox" data-module="systemMarket"> Market</label>
+    <label><input type="checkbox" data-module="meditation"> Meditation </label>
+    <label><input type="checkbox" data-module="adriftLoot"> Adrift Cargo</label>
+    <label><input type="checkbox" data-module="cargo"> Cargo Manager</label>
+		<label><input type="checkbox" data-module="regionViewer">Region Viewer</label>
+    <label>
+    <input type="checkbox" data-module="structure_browser"> Structure Browser</label>
+
+		<!-- <label><input type="checkbox" data-module="combat_log">Combat Log</label> -->
+		<label><input type="checkbox" data-module="hunting_main">Hunting</label>
+    <label><input type="checkbox" data-module="wormholeScanner"> Wormhole Scanner</label>
+    <label><input type="checkbox" data-module="account_scanner"> Account Scanner</label>
+<label><input type="checkbox" data-module="ship_command"> Ship Command</label>
+
+
+
+
+  </div>
+</div>
+
+
+
+  <div id="mainContainer"><section id="speedSquadPanel" data-panel="mission_speedSquad" class="minimizable-panel">
+    <div class="panel-header" data-target="#speedSquadContent">
+      <h2>🏎️ Speed &amp; Squad</h2>
+      <span id="speedSquadStatus" style="font-size: 0.75em; color: #aaa; margin-left: auto;">⏹️ Stopped</span>
+      <button id="speedSquadToggle">Start</button>
+    </div>
+    <div class="panel-content" id="speedSquadContent">Idle.</div>
+  </section><section id="account_managerPanel" data-panel="account_manager" class="minimizable-panel open">
+    <div class="panel-header" data-target="#accountManagerContent">
+      <h2>👥 Account Manager</h2>
+    </div>
+    <div class="panel-content" id="accountManagerContent">
+      <div style="margin-bottom:6px">
+        <label>Sort: 
+          <select id="accountSortSelect">
+            <option value="login">Recent</option>
+            <option value="level">Level</option>
+            <option value="status">Status</option>
+          </select>
+        </label>
+      </div>
+      <div id="accountManagerList">
+      <div class="account-block ">
+        <h3>
+          <code onclick="launchAccount(&#39;4050&#39;)">Paria @813</code>
+        </h3>
+        <div style="color:#4dc3ff">🛏 Idle</div>
+        <div style="color:#4dff88">0m <span style="color:#80ff80">214.14</span></div>
+        <div style="color:hsl(353, 65%, 65%)">Starf <span style="color:hsl(357, 65%, 65%)">Carbon</span></div>
+          
+    <textarea class="char-note" oninput="localStorage.setItem(&#39;note_4050&#39;, this.value)" placeholder="Note..." rows="1" style="resize:vertical; width:100%; max-height:80px;">training</textarea>
+  
+
+      </div>
+    
+      <div class="account-block ">
+        <h3>
+          <code onclick="launchAccount(&#39;4080&#39;)">First @ksh</code>
+        </h3>
+        <div style="color:#4dc3ff">🛏 Idle</div>
+        <div style="color:#4dff88">0m <span style="color:#ccc">572.06</span></div>
+        <div style="color:hsl(343, 65%, 65%)">Pione <span style="color:hsl(357, 65%, 65%)">Carbon</span></div>
+          
+    <textarea class="char-note" oninput="localStorage.setItem(&#39;note_4080&#39;, this.value)" placeholder="Note..." rows="1" style="resize:vertical; width:100%; max-height:80px;">xploring</textarea>
+  
+
+      </div>
+    
+      <div class="account-block ">
+        <h3>
+          <code onclick="launchAccount(&#39;4110&#39;)">Cactu @bob</code>
+        </h3>
+        <div style="color:#4dc3ff">🛏 Idle</div>
+        <div style="color:#ff4d88">88m <span style="color:#ccc">112.66</span></div>
+        <div style="color:hsl(56, 65%, 65%)">The U <span style="color:hsl(163, 65%, 65%)">The Br</span></div>
+          
+    <textarea class="char-note" oninput="localStorage.setItem(&#39;note_4110&#39;, this.value)" placeholder="Note..." rows="1" style="resize:vertical; width:100%; max-height:80px;">wikes
+claim k2</textarea>
+  
+
+      </div>
+    
+      <div class="account-block faded">
+        <h3>
+          <code onclick="launchAccount(&#39;4024&#39;)">ALBAC @log</code>
+        </h3>
+        <div style="color:#ff4d4f">⚔️ In Combat</div>
+        <div style="color:#ff4d88">154m <span style="color:#ccc">165.46</span></div>
+        <div style="color:hsl(21, 65%, 65%)">Evax  <span style="color:hsl(163, 65%, 65%)">The Br</span></div>
+          
+    <textarea class="char-note" oninput="localStorage.setItem(&#39;note_4024&#39;, this.value)" placeholder="Note..." rows="1" style="resize:vertical; width:100%; max-height:80px;">wikes</textarea>
+  
+
+      </div>
+    
+      <div class="account-block faded">
+        <h3>
+          <code onclick="launchAccount(&#39;4031&#39;)">Quixo @nev</code>
+        </h3>
+        <div style="color:#ff4d4f">⚔️ In Combat</div>
+        <div style="color:#ff4d88">156m <span style="color:#ccc">198.36</span></div>
+        <div style="color:hsl(21, 65%, 65%)">Evax  <span style="color:hsl(163, 65%, 65%)">The Br</span></div>
+          
+    <textarea class="char-note" oninput="localStorage.setItem(&#39;note_4031&#39;, this.value)" placeholder="Note..." rows="1" style="resize:vertical; width:100%; max-height:80px;">wikes</textarea>
+  
+
+      </div>
+    
+      <div class="account-block ">
+        <h3>
+          <code onclick="launchAccount(&#39;4067&#39;)">Train @lay</code>
+        </h3>
+        <div style="color:#ff4d4f">⚔️ In Combat</div>
+        <div style="color:#ff4d88">93m <span style="color:#ccc">236.83</span></div>
+        <div style="color:hsl(21, 65%, 65%)">Evax  <span style="color:hsl(163, 65%, 65%)">The Br</span></div>
+          
+    <textarea class="char-note" oninput="localStorage.setItem(&#39;note_4067&#39;, this.value)" placeholder="Note..." rows="1" style="resize:vertical; width:100%; max-height:80px;">wikes</textarea>
+  
+
+      </div>
+    
+      <div class="account-block ">
+        <h3>
+          <code onclick="launchAccount(&#39;4068&#39;)">Almon @jon</code>
+        </h3>
+        <div style="color:#ff4d4f">⚔️ In Combat</div>
+        <div style="color:#ff4d88">90m <span style="color:#ccc">195.7</span></div>
+        <div style="color:hsl(56, 65%, 65%)">The U <span style="color:hsl(163, 65%, 65%)">The Br</span></div>
+          
+    <textarea class="char-note" oninput="localStorage.setItem(&#39;note_4068&#39;, this.value)" placeholder="Note..." rows="1" style="resize:vertical; width:100%; max-height:80px;">wikes</textarea>
+  
+
+      </div>
+    
+      <div class="account-block ">
+        <h3>
+          <code onclick="launchAccount(&#39;4113&#39;)">Space @the</code>
+        </h3>
+        <div style="color:#ff4d4f">⚔️ In Combat</div>
+        <div style="color:#4dff88">5m <span style="color:#ccc">77.62</span></div>
+        <div style="color:hsl(21, 65%, 65%)">Evax  <span style="color:hsl(163, 65%, 65%)">The Br</span></div>
+          
+    <textarea class="char-note" oninput="localStorage.setItem(&#39;note_4113&#39;, this.value)" placeholder="Note..." rows="1" style="resize:vertical; width:100%; max-height:80px;">wikes</textarea>
+  
+
+      </div>
+    
+      <div class="account-block ">
+        <h3>
+          <code onclick="launchAccount(&#39;4026&#39;)">Night @sha</code>
+        </h3>
+        <div style="color:#ffa940">🧭 Travelling</div>
+        <div style="color:#4dff88">0m <span style="color:#ccc">808.81</span></div>
+        <div style="color:hsl(343, 65%, 65%)">Pione <span style="color:hsl(163, 65%, 65%)">The Br</span></div>
+          
+    <textarea class="char-note" oninput="localStorage.setItem(&#39;note_4026&#39;, this.value)" placeholder="Note..." rows="1" style="resize:vertical; width:100%; max-height:80px;">xploring</textarea>
+  
+
+      </div>
+    
+      <div class="account-block faded">
+        <h3>
+          <code onclick="launchAccount(&#39;4094&#39;)">Rippe @f24</code>
+        </h3>
+        <div style="color:#ffa940">🧭 Travelling</div>
+        <div style="color:#ff4d88">146m <span style="color:#ccc">217.83</span></div>
+        <div style="color:hsl(353, 65%, 65%)">Starf <span style="color:hsl(163, 65%, 65%)">The Br</span></div>
+          
+    <textarea class="char-note" oninput="localStorage.setItem(&#39;note_4094&#39;, this.value)" placeholder="Note..." rows="1" style="resize:vertical; width:100%; max-height:80px;">otw to die maybe</textarea>
+  
+
+      </div>
+    </div>
+    </div>
+  </section><section id="chartTestPanel" class="minimizable-panel" data-panel="chart">
+    <div class="panel-header" data-target="#chartTestContent">
+      <h2>📝 Auto Chart Test</h2>
+      <button id="chartToggleBtn">Start</button>
+    <button id="exploreToggleBtn">Start Explore</button></div>
+    <div class="panel-content" id="chartTestContent">
+      <div id="chartStatus">⏳ Loading...</div>
+      <progress id="chartProgressBar" value="0" max="100" style="width: 100%; margin: 5px 0;"></progress>
+      <div id="chartMeta" style="font-size: 0.8em; color: #888;"></div>
+      <div id="chartStats" style="font-size: 0.8em; color: #aaa; margin-top: 5px;">🌌 Systems Charted: 0 | 🪐 Bodies Charted: 0</div>
+      <pre id="chartLog" style="max-height: 300px; overflow-y: auto; background: #111; padding: 0.5em; font-size: 0.8em;"></pre>
+    </div>
+  </section><section id="wormholeScannerPanel" data-panel="wormholeScanner" class="minimizable-panel open">
+    <div class="panel-header" data-target="#wormholeScannerContent">
+      <h2>🕳️ Wormhole Scanner</h2>
+      <div id="wormholeScannerStatus">✅ Done scanning.</div>
+      <button id="wormholeScannerToggle">Start</button>
+    </div>
+    <div class="panel-content" id="wormholeScannerContent">
+      <pre id="wormholeScannerLog">[11:59:20 AM] ✅ Done scanning.
+[11:53:49 AM] ⚠️ Unstable wormhole @ 49566.7 - 48aa92a2-bc6c-11ee-8b11-bc764e082325
+[11:31:24 AM] ⚠️ Unstable wormhole @ 16408.6 - Hamming
+[11:30:27 AM] ⚠️ Unstable wormhole @ 16138.3 - Yao
+[11:29:32 AM] ⚠️ Unstable wormhole @ 15688.8 - Cush
+[11:20:13 AM] ⚠️ Unstable wormhole @ 12494.7 - Lava
+[11:19:57 AM] ⚠️ Unstable wormhole @ 12430 - ec5d130b-4d1d-11ec-bbd1-bc764e082325
+[11:14:29 AM] ⚠️ Unstable wormhole @ 11704.8 - Litus Saxonicum
+[11:14:10 AM] ⚠️ Unstable wormhole @ 11598.6 - Nyx
+[11:09:24 AM] ⚠️ Unstable wormhole @ 9871.4 - H Event Horizon
+[11:05:08 AM] ⚠️ Unstable wormhole @ 8695.3 - Cisco
+[10:39:57 AM] 🟢 Running...
+Idle.</pre>
+    </div>
+  </section></div>
+  <script type="module" src="./TSB_files/main.js"></script>
+
+
+</div><section id="debugPanel" class="debug-panel collapsed">
+    <div class="debug-header">
+      <span id="debugSummary">Debug | 0/min | POST lookup/user/?user_id=4113</span>
+      <button id="debugToggle">▲</button>
+    </div>
+    <div class="debug-content" id="debugLog" style="white-space:pre; overflow-y:auto;"><div style="
+        color: #6cf;
+        font-family: monospace;
+        font-size: 12px;
+        line-height: 1.4;
+        white-space: nowrap;
+        overflow: hidden;
+        text-overflow: ellipsis;
+      ">[1:44:27 PM] POST lookup/user/?user_id=4113</div><div style="
+        color: #6cf;
+        font-family: monospace;
+        font-size: 12px;
+        line-height: 1.4;
+        white-space: nowrap;
+        overflow: hidden;
+        text-overflow: ellipsis;
+      ">[1:44:27 PM] POST lookup/user/?user_id=4110</div><div style="
+        color: #6cf;
+        font-family: monospace;
+        font-size: 12px;
+        line-height: 1.4;
+        white-space: nowrap;
+        overflow: hidden;
+        text-overflow: ellipsis;
+      ">[1:44:27 PM] POST lookup/user/?user_id=4094</div><div style="
+        color: #6cf;
+        font-family: monospace;
+        font-size: 12px;
+        line-height: 1.4;
+        white-space: nowrap;
+        overflow: hidden;
+        text-overflow: ellipsis;
+      ">[1:44:27 PM] POST lookup/user/?user_id=4080</div><div style="
+        color: #6cf;
+        font-family: monospace;
+        font-size: 12px;
+        line-height: 1.4;
+        white-space: nowrap;
+        overflow: hidden;
+        text-overflow: ellipsis;
+      ">[1:44:27 PM] POST lookup/user/?user_id=4068</div><div style="
+        color: #6cf;
+        font-family: monospace;
+        font-size: 12px;
+        line-height: 1.4;
+        white-space: nowrap;
+        overflow: hidden;
+        text-overflow: ellipsis;
+      ">[1:44:27 PM] POST lookup/user/?user_id=4067</div><div style="
+        color: #6cf;
+        font-family: monospace;
+        font-size: 12px;
+        line-height: 1.4;
+        white-space: nowrap;
+        overflow: hidden;
+        text-overflow: ellipsis;
+      ">[1:44:27 PM] POST lookup/user/?user_id=4050</div><div style="
+        color: #6cf;
+        font-family: monospace;
+        font-size: 12px;
+        line-height: 1.4;
+        white-space: nowrap;
+        overflow: hidden;
+        text-overflow: ellipsis;
+      ">[1:44:27 PM] POST lookup/user/?user_id=4031</div><div style="
+        color: #6cf;
+        font-family: monospace;
+        font-size: 12px;
+        line-height: 1.4;
+        white-space: nowrap;
+        overflow: hidden;
+        text-overflow: ellipsis;
+      ">[1:44:27 PM] POST lookup/user/?user_id=4026</div><div style="
+        color: #6cf;
+        font-family: monospace;
+        font-size: 12px;
+        line-height: 1.4;
+        white-space: nowrap;
+        overflow: hidden;
+        text-overflow: ellipsis;
+      ">[1:44:27 PM] POST lookup/user/?user_id=4024</div><div style="
+        color: #6cf;
+        font-family: monospace;
+        font-size: 12px;
+        line-height: 1.4;
+        white-space: nowrap;
+        overflow: hidden;
+        text-overflow: ellipsis;
+      ">[1:44:03 PM] POST recipe/discovered/ship/?ship_id=10</div><div style="
+        color: #6cf;
+        font-family: monospace;
+        font-size: 12px;
+        line-height: 1.4;
+        white-space: nowrap;
+        overflow: hidden;
+        text-overflow: ellipsis;
+      ">[1:44:02 PM] POST recipe/discovered/ship/?ship_id=9</div><div style="
+        color: #6cf;
+        font-family: monospace;
+        font-size: 12px;
+        line-height: 1.4;
+        white-space: nowrap;
+        overflow: hidden;
+        text-overflow: ellipsis;
+      ">[1:44:02 PM] POST recipe/discovered/ship/?ship_id=8</div><div style="
+        color: #6cf;
+        font-family: monospace;
+        font-size: 12px;
+        line-height: 1.4;
+        white-space: nowrap;
+        overflow: hidden;
+        text-overflow: ellipsis;
+      ">[1:44:01 PM] POST recipe/discovered/ship/?ship_id=7</div><div style="
+        color: #6cf;
+        font-family: monospace;
+        font-size: 12px;
+        line-height: 1.4;
+        white-space: nowrap;
+        overflow: hidden;
+        text-overflow: ellipsis;
+      ">[1:44:00 PM] POST recipe/discovered/ship/?ship_id=6</div><div style="
+        color: #6cf;
+        font-family: monospace;
+        font-size: 12px;
+        line-height: 1.4;
+        white-space: nowrap;
+        overflow: hidden;
+        text-overflow: ellipsis;
+      ">[1:43:59 PM] POST recipe/discovered/ship/?ship_id=5</div><div style="
+        color: #6cf;
+        font-family: monospace;
+        font-size: 12px;
+        line-height: 1.4;
+        white-space: nowrap;
+        overflow: hidden;
+        text-overflow: ellipsis;
+      ">[1:43:59 PM] POST recipe/discovered/ship/?ship_id=4</div><div style="
+        color: #6cf;
+        font-family: monospace;
+        font-size: 12px;
+        line-height: 1.4;
+        white-space: nowrap;
+        overflow: hidden;
+        text-overflow: ellipsis;
+      ">[1:43:58 PM] POST recipe/discovered/ship/?ship_id=3</div><div style="
+        color: #6cf;
+        font-family: monospace;
+        font-size: 12px;
+        line-height: 1.4;
+        white-space: nowrap;
+        overflow: hidden;
+        text-overflow: ellipsis;
+      ">[1:43:57 PM] POST recipe/discovered/ship/?ship_id=2</div><div style="
+        color: #6cf;
+        font-family: monospace;
+        font-size: 12px;
+        line-height: 1.4;
+        white-space: nowrap;
+        overflow: hidden;
+        text-overflow: ellipsis;
+      ">[1:43:57 PM] POST recipe/discovered/ship/?ship_id=1</div><div style="
+        color: #6cf;
+        font-family: monospace;
+        font-size: 12px;
+        line-height: 1.4;
+        white-space: nowrap;
+        overflow: hidden;
+        text-overflow: ellipsis;
+      ">[1:43:27 PM] POST lookup/user/?user_id=4113</div><div style="
+        color: #6cf;
+        font-family: monospace;
+        font-size: 12px;
+        line-height: 1.4;
+        white-space: nowrap;
+        overflow: hidden;
+        text-overflow: ellipsis;
+      ">[1:43:27 PM] POST lookup/user/?user_id=4110</div><div style="
+        color: #6cf;
+        font-family: monospace;
+        font-size: 12px;
+        line-height: 1.4;
+        white-space: nowrap;
+        overflow: hidden;
+        text-overflow: ellipsis;
+      ">[1:43:27 PM] POST lookup/user/?user_id=4094</div><div style="
+        color: #6cf;
+        font-family: monospace;
+        font-size: 12px;
+        line-height: 1.4;
+        white-space: nowrap;
+        overflow: hidden;
+        text-overflow: ellipsis;
+      ">[1:43:27 PM] POST lookup/user/?user_id=4080</div><div style="
+        color: #6cf;
+        font-family: monospace;
+        font-size: 12px;
+        line-height: 1.4;
+        white-space: nowrap;
+        overflow: hidden;
+        text-overflow: ellipsis;
+      ">[1:43:27 PM] POST lookup/user/?user_id=4068</div><div style="
+        color: #6cf;
+        font-family: monospace;
+        font-size: 12px;
+        line-height: 1.4;
+        white-space: nowrap;
+        overflow: hidden;
+        text-overflow: ellipsis;
+      ">[1:43:27 PM] POST lookup/user/?user_id=4067</div><div style="
+        color: #6cf;
+        font-family: monospace;
+        font-size: 12px;
+        line-height: 1.4;
+        white-space: nowrap;
+        overflow: hidden;
+        text-overflow: ellipsis;
+      ">[1:43:27 PM] POST lookup/user/?user_id=4050</div><div style="
+        color: #6cf;
+        font-family: monospace;
+        font-size: 12px;
+        line-height: 1.4;
+        white-space: nowrap;
+        overflow: hidden;
+        text-overflow: ellipsis;
+      ">[1:43:27 PM] POST lookup/user/?user_id=4031</div><div style="
+        color: #6cf;
+        font-family: monospace;
+        font-size: 12px;
+        line-height: 1.4;
+        white-space: nowrap;
+        overflow: hidden;
+        text-overflow: ellipsis;
+      ">[1:43:27 PM] POST lookup/user/?user_id=4026</div><div style="
+        color: #6cf;
+        font-family: monospace;
+        font-size: 12px;
+        line-height: 1.4;
+        white-space: nowrap;
+        overflow: hidden;
+        text-overflow: ellipsis;
+      ">[1:43:27 PM] POST lookup/user/?user_id=4024</div></div>
+  </section></body></html>

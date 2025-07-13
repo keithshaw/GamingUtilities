@@ -1,0 +1,39 @@
+async function stowShips(limit = 4) {
+  const delay = (ms) => new Promise(r => setTimeout(r, ms));
+  let stowedCount = 0;
+
+  while (stowedCount < limit) {
+    const rows = [...document.querySelectorAll('#command-parked-ships tbody tr.parked_ship')];
+
+    for (const row of rows) {
+      if (stowedCount >= limit) break;
+
+      const name = row.querySelector('.parked_ship_name')?.textContent || "";
+      if (name.includes('(travelling to')) continue;
+
+      const menuBtn = row.querySelector('.overflow-menu');
+      if (!menuBtn) continue;
+
+      menuBtn.click();
+      await delay(300);
+
+      const stowBtn = document.querySelector('.parked_ship_stow');
+      if (!stowBtn || stowBtn.getAttribute('aria-disabled') === 'true') continue;
+
+      stowBtn.click();
+      console.log(`📦 Stowed: ${name}`);
+      stowedCount++;
+
+      // Wait for table to reload/update after stowing
+      await delay(1500);
+    }
+
+    // Stop if no stowable ships found
+    if (stowedCount === 0) {
+      console.log('❌ No stowable ships found.');
+      break;
+    }
+  }
+
+  console.log(`✅ Done. Stowed ${stowedCount} ship(s).`);
+}

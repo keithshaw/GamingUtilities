@@ -1,0 +1,59 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <link rel="icon" href="favicon.svg" type="image/svg+xml">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>TSB</title>
+  <link rel="stylesheet" href="style.css" />
+</head>
+<body>
+	<div id="configBar">
+	  <label for="apiSelector">Account:</label>
+	  <select id="apiSelector"></select>
+
+<div id="moduleManager">
+  <strong>Modules:</strong>
+
+  <div class="module-group">
+    <strong>Mission:</strong><br>
+    <label><input type="checkbox" data-module="decrypt"> Decrypt</label>
+    <label><input type="checkbox" data-module="mission_secretSauce"> Secret Sauce</label>
+    <label><input type="checkbox" data-module="butcher"> Butcher</label>
+    <label><input type="checkbox" data-module="trafficker"> Trafficker</label>
+    <label><input type="checkbox" data-module="collectionPlate"> Collection Plate</label>
+<label><input type="checkbox" data-module="mission_speedSquad"> Speed/Squad</label>
+
+  </div>
+
+  <div class="module-group">
+    <strong>Utility:</strong><br>
+    <label><input type="checkbox" data-module="harvest_escape"> Pod Harvester</label>
+    <label><input type="checkbox" data-module="account_manager"> Accounts </label>
+    <label><input type="checkbox" data-module="chart"> Chart</label>
+    <label><input type="checkbox" data-module="navigation"> Navigation</label>
+    <label><input type="checkbox" data-module="systemMarket"> Market</label>
+    <label><input type="checkbox" data-module="meditation"> Meditation </label>
+    <label><input type="checkbox" data-module="adriftLoot"> Adrift Cargo</label>
+    <label><input type="checkbox" data-module="cargo"> Cargo Manager</label>
+    <label>
+    <input type="checkbox" data-module="structure_browser"> Structure Browser</label>
+
+		<!-- <label><input type="checkbox" data-module="combat_log">Combat Log</label> -->
+		<label><input type="checkbox" data-module="hunting_main">Hunting</label>
+    <label><input type="checkbox" data-module="wormholeScanner"> Wormhole Scanner</label>
+    <label><input type="checkbox" data-module="account_scanner"> Account Scanner</label>
+<label><input type="checkbox" data-module="ship_command"> Ship Command</label>
+
+
+
+
+  </div>
+</div>
+
+
+
+  <div id="mainContainer"></div>
+  <script type="module" src="main.js"></script>
+</body>
+</html>

@@ -1,0 +1,79 @@
+(async () => {
+  const delay = (ms) => new Promise(r => setTimeout(r, ms));
+
+  let page = 1;
+  let morePages = true;
+
+  while (morePages) {
+    console.log(`📄 Scanning page ${page}`);
+
+    let rows = [...document.querySelectorAll('#command-parked-ships tbody tr.parked_ship')];
+
+    for (let i = 0; i < rows.length; i++) {
+      rows = [...document.querySelectorAll('#command-parked-ships tbody tr.parked_ship')]; // re-grab fresh DOM each time
+      const row = rows[i];
+      if (!row) continue;
+
+      const name = row.querySelector('.parked_ship_name')?.textContent || "";
+      if (name.includes('(travelling to')) {
+        console.log(`⏩ Skipping traveling ship: ${name}`);
+        continue;
+      }
+
+      const menuBtn = row.querySelector('.overflow-menu');
+      if (!menuBtn) continue;
+
+      menuBtn.click();
+      await delay(400);
+
+      const summonBtn = document.querySelector('.parked_ship_summon');
+      if (!summonBtn) {
+        console.warn(`❌ No summon button for ${name}`);
+        continue;
+      }
+
+      summonBtn.click();
+      await delay(400);
+
+      let confirmBtn = null;
+      for (let j = 0; j < 30; j++) {
+        confirmBtn = document.querySelector('#confirmation-confirm-button');
+        if (confirmBtn && !confirmBtn.disabled) break;
+        await delay(200);
+      }
+
+      if (confirmBtn) {
+        confirmBtn.click();
+        console.log(`✅ Summoned: ${name}`);
+      } else {
+        console.warn(`⚠️ Confirm failed for ${name}`);
+        continue;
+      }
+
+      // Wait for table to reload
+      for (let j = 0; j < 30; j++) {
+        const updatedRows = [...document.querySelectorAll('#command-parked-ships tbody tr.parked_ship')];
+        if (updatedRows.length !== rows.length) break;
+        await delay(300);
+      }
+
+      await delay(600); // allow UI to settle
+    }
+
+    const nextBtn = [...document.querySelectorAll('.pager a')].find(a =>
+      a.textContent.trim() === 'Next' && !a.getAttribute('aria-disabled')?.includes('true')
+    );
+
+    if (nextBtn) {
+      nextBtn.click();
+      console.log('⏭️ Moving to next page...');
+      await delay(2000); // let table visibly reload
+
+      page++;
+    } else {
+      morePages = false;
+    }
+  }
+
+  console.log('🎉 Done summoning.');
+})();
